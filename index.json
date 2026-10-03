@@ -1,6 +1,6 @@
 {
  "name": "ani-v-tv-logos",
- "version": 1,
+ "version": 2,
  "updated": "2026-10-04",
  "logoBase": "https://raw.githubusercontent.com/thehyaline/ani-v-tv-logos/main/logos/",
  "entries": [
@@ -213,7 +213,8 @@
     "央视一套",
     "央视1台",
     "CCTV-1综合",
-    "CCTV1综合"
+    "CCTV1综合",
+    "CCTV1综合频道"
    ]
   },
   {
@@ -350,7 +351,8 @@
     "CCTV4K",
     "CCTV-4K",
     "央视4K",
-    "CCTV4K超高清"
+    "CCTV4K超高清",
+    "CCTV4K频道"
    ]
   },
   {
@@ -360,7 +362,8 @@
     "CCTV-5+",
     "体育赛事频道",
     "央视5+",
-    "CCTV5plus"
+    "CCTV5plus",
+    "CCTV5+体育赛事"
    ]
   },
   {
@@ -425,7 +428,10 @@
   {
    "file": "CGTN.png",
    "names": [
-    "CGTN"
+    "CGTN",
+    "中国国际电视台",
+    "CCTV英语频道",
+    "CGTN英语"
    ]
   },
   {
@@ -492,14 +498,18 @@
    "file": "HOY_TV.png",
    "names": [
     "HOY TV",
-    "HOYTV"
+    "HOYTV",
+    "HOY 77",
+    "奇妙电视"
    ]
   },
   {
    "file": "HOY_资讯台.png",
    "names": [
     "HOY 资讯台",
-    "HOY资讯台"
+    "HOY资讯台",
+    "HOY 78",
+    "HOY资讯"
    ]
   },
   {
@@ -986,7 +996,8 @@
    "file": "安徽卫视.png",
    "names": [
     "安徽卫视",
-    "安徽卫视高清"
+    "安徽卫视高清",
+    "Anhui TV"
    ]
   },
   {
@@ -1018,7 +1029,8 @@
    "names": [
     "日本映画専門チャンネル",
     "日本映画専門チャンネルHD",
-    "日本映画专门频道"
+    "日本映画专门频道",
+    "日本电影专门频道"
    ]
   },
   {
@@ -1080,7 +1092,8 @@
    "file": "江苏卫视.png",
    "names": [
     "江苏卫视",
-    "江苏卫视高清"
+    "江苏卫视高清",
+    "荔枝台"
    ]
   },
   {
@@ -1113,7 +1126,8 @@
     "无线新闻台",
     "TVB新闻台",
     "無線新聞台",
-    "翡翠新闻台"
+    "翡翠新闻台",
+    "TVB无线新闻台"
    ]
   },
   {
@@ -1131,7 +1145,8 @@
     "翡翠台",
     "TVB翡翠台",
     "翡翠",
-    "翡翠台高清"
+    "翡翠台高清",
+    "TVB翡翠台HD"
    ]
   },
   {
@@ -1168,6 +1183,7121 @@
     "凤凰卫视香港台",
     "凤凰香港台",
     "凤凰香港"
+   ]
+  },
+  {
+   "file": "港台电视34.png",
+   "names": [
+    "港台电视34",
+    "港台34",
+    "RTHK TV 34",
+    "RTHK34"
+   ]
+  },
+  {
+   "file": "港台电视35.png",
+   "names": [
+    "港台电视35",
+    "港台35",
+    "RTHK TV 35",
+    "RTHK35"
+   ]
+  },
+  {
+   "file": "HOY国际财经台.png",
+   "names": [
+    "HOY国际财经台",
+    "HOY国际财经",
+    "HOY IBC",
+    "HOY76",
+    "HOY 76",
+    "HOY International Business Channel"
+   ]
+  },
+  {
+   "file": "美亚电影台.png",
+   "names": [
+    "美亚电影台",
+    "美亞電影台",
+    "美亚电影",
+    "Mei Ah Movie Channel"
+   ]
+  },
+  {
+   "file": "TVB亚洲剧台.png",
+   "names": [
+    "TVB亚洲剧台",
+    "亚洲剧台",
+    "TVB亚洲剧",
+    "Asian Drama"
+   ]
+  },
+  {
+   "file": "tvN.png",
+   "names": [
+    "tvN",
+    "tvN Asia"
+   ]
+  },
+  {
+   "file": "华视.png",
+   "names": [
+    "华视",
+    "華視",
+    "CTS",
+    "HUA-CHI CTS"
+   ]
+  },
+  {
+   "file": "民视.png",
+   "names": [
+    "民视",
+    "民視",
+    "FTV",
+    "Formosa TV"
+   ]
+  },
+  {
+   "file": "原住民族电视台.png",
+   "names": [
+    "原住民族电视台",
+    "原住民族電視台",
+    "原住民电视台",
+    "原视",
+    "Indigenous TV",
+    "Taiwan Indigenous TV"
+   ]
+  },
+  {
+   "file": "ViuTV.png",
+   "names": [
+    "ViuTV",
+    "ViuTV 6",
+    "ViuTVsix"
+   ]
+  },
+  {
+   "file": "KBS1.png",
+   "names": [
+    "KBS1",
+    "KBS 1",
+    "KBS1TV"
+   ]
+  },
+  {
+   "file": "SBS.png",
+   "names": [
+    "SBS",
+    "SBS TV"
+   ]
+  },
+  {
+   "file": "WOWOW.png",
+   "names": [
+    "WOWOW",
+    "WOWOWプライム",
+    "WOWOW Prime"
+   ]
+  },
+  {
+   "file": "优购物.png",
+   "names": [
+    "优购物",
+    "優購物"
+   ]
+  },
+  {
+   "file": "吉林影视.png",
+   "names": [
+    "吉林影视",
+    "Jilin Movie Channel"
+   ]
+  },
+  {
+   "file": "吉林生活.png",
+   "names": [
+    "吉林生活",
+    "Jilin Lifestyle Channel"
+   ]
+  },
+  {
+   "file": "吉林乡村.png",
+   "names": [
+    "吉林乡村",
+    "Jilin Rural Channel"
+   ]
+  },
+  {
+   "file": "江西都市.png",
+   "names": [
+    "江西都市",
+    "Jiangxi City Channel"
+   ]
+  },
+  {
+   "file": "江西影视.png",
+   "names": [
+    "江西影视",
+    "Jiangxi Movie Channel"
+   ]
+  },
+  {
+   "file": "江西公共农业.png",
+   "names": [
+    "江西公共农业",
+    "江西公共·农业",
+    "Jiangxi Public & Agriculture Channel"
+   ]
+  },
+  {
+   "file": "兰州新闻综合.png",
+   "names": [
+    "兰州新闻综合",
+    "兰州新闻综合频道",
+    "Lanzhou Comprehensive News Channel"
+   ]
+  },
+  {
+   "file": "南昌新闻综合.png",
+   "names": [
+    "南昌新闻综合",
+    "南昌新闻综合频道",
+    "Nanchang News & Generalist Channel"
+   ]
+  },
+  {
+   "file": "四平综合.png",
+   "names": [
+    "四平综合",
+    "Siping TV"
+   ]
+  },
+  {
+   "file": "楚雄新闻.png",
+   "names": [
+    "楚雄新闻",
+    "Chuxiong News Channel"
+   ]
+  },
+  {
+   "file": "韶关综合.png",
+   "names": [
+    "韶关综合",
+    "韶关综合台"
+   ]
+  },
+  {
+   "file": "韶关公共.png",
+   "names": [
+    "韶关公共",
+    "韶关公共台"
+   ]
+  },
+  {
+   "file": "4K修复.png",
+   "names": [
+    "4K修复"
+   ]
+  },
+  {
+   "file": "4K电影.png",
+   "names": [
+    "4K电影"
+   ]
+  },
+  {
+   "file": "BRTV北京卫视.png",
+   "names": [
+    "BRTV北京卫视"
+   ]
+  },
+  {
+   "file": "BeautifulLife.png",
+   "names": [
+    "BeautifulLife"
+   ]
+  },
+  {
+   "file": "BLOOMBERG.png",
+   "names": [
+    "BLOOMBERG"
+   ]
+  },
+  {
+   "file": "BloombergTV.png",
+   "names": [
+    "BloombergTV"
+   ]
+  },
+  {
+   "file": "BREADTV.png",
+   "names": [
+    "BREADTV"
+   ]
+  },
+  {
+   "file": "CCTV164K.png",
+   "names": [
+    "CCTV164K"
+   ]
+  },
+  {
+   "file": "CCTV11戏曲.png",
+   "names": [
+    "CCTV11戏曲"
+   ]
+  },
+  {
+   "file": "CCTV-12社会.png",
+   "names": [
+    "CCTV-12社会"
+   ]
+  },
+  {
+   "file": "CCTV13新闻.png",
+   "names": [
+    "CCTV13新闻"
+   ]
+  },
+  {
+   "file": "CCTV14少儿.png",
+   "names": [
+    "CCTV14少儿"
+   ]
+  },
+  {
+   "file": "CCTV15音乐.png",
+   "names": [
+    "CCTV15音乐"
+   ]
+  },
+  {
+   "file": "CCTV-17农业.png",
+   "names": [
+    "CCTV-17农业"
+   ]
+  },
+  {
+   "file": "CCTV-4中文.png",
+   "names": [
+    "CCTV-4中文"
+   ]
+  },
+  {
+   "file": "CCTV-8电视.png",
+   "names": [
+    "CCTV-8电视"
+   ]
+  },
+  {
+   "file": "CETV1.png",
+   "names": [
+    "CETV1"
+   ]
+  },
+  {
+   "file": "CETV4.png",
+   "names": [
+    "CETV4"
+   ]
+  },
+  {
+   "file": "CETV2.png",
+   "names": [
+    "CETV2"
+   ]
+  },
+  {
+   "file": "CGTNDOCUMENTARY.png",
+   "names": [
+    "CGTNDOCUMENTARY"
+   ]
+  },
+  {
+   "file": "cgtnfrench.png",
+   "names": [
+    "cgtnfrench"
+   ]
+  },
+  {
+   "file": "CGTN俄语.png",
+   "names": [
+    "CGTN俄语",
+    "CGTN俄语频道",
+    "CGTN Russian"
+   ]
+  },
+  {
+   "file": "CGTN法语.png",
+   "names": [
+    "CGTN法语",
+    "CGTN法语频道"
+   ]
+  },
+  {
+   "file": "CGTN西语.png",
+   "names": [
+    "CGTN西语",
+    "CGTN西语频道",
+    "CGTN西班牙语"
+   ]
+  },
+  {
+   "file": "CGTN记录.png",
+   "names": [
+    "CGTN记录"
+   ]
+  },
+  {
+   "file": "CGTN阿语.png",
+   "names": [
+    "CGTN阿语",
+    "CGTN阿语频道",
+    "CGTN阿拉伯语"
+   ]
+  },
+  {
+   "file": "CTSNEWS.png",
+   "names": [
+    "CTSNEWS"
+   ]
+  },
+  {
+   "file": "CtiVariety.png",
+   "names": [
+    "CtiVariety"
+   ]
+  },
+  {
+   "file": "CELESTIALMOVIES.png",
+   "names": [
+    "CELESTIALMOVIES"
+   ]
+  },
+  {
+   "file": "DAAI1.png",
+   "names": [
+    "DAAI1"
+   ]
+  },
+  {
+   "file": "DAAI2.png",
+   "names": [
+    "DAAI2"
+   ]
+  },
+  {
+   "file": "EBCFinancialNews.png",
+   "names": [
+    "EBCFinancialNews"
+   ]
+  },
+  {
+   "file": "EBCNews.png",
+   "names": [
+    "EBCNews"
+   ]
+  },
+  {
+   "file": "ftv-taiwan.png",
+   "names": [
+    "ftv-taiwan"
+   ]
+  },
+  {
+   "file": "HOY_INFOTAINMENT.png",
+   "names": [
+    "HOY_INFOTAINMENT"
+   ]
+  },
+  {
+   "file": "hunantv.png",
+   "names": [
+    "hunantv"
+   ]
+  },
+  {
+   "file": "JADE.png",
+   "names": [
+    "JADE"
+   ]
+  },
+  {
+   "file": "KIX.png",
+   "names": [
+    "KIX"
+   ]
+  },
+  {
+   "file": "KANGBA.png",
+   "names": [
+    "KANGBA"
+   ]
+  },
+  {
+   "file": "MOMOTV.png",
+   "names": [
+    "MOMOTV"
+   ]
+  },
+  {
+   "file": "newtv东北热剧.png",
+   "names": [
+    "newtv东北热剧"
+   ]
+  },
+  {
+   "file": "newtv中国功夫.png",
+   "names": [
+    "newtv中国功夫"
+   ]
+  },
+  {
+   "file": "newtv军事评论.png",
+   "names": [
+    "newtv军事评论"
+   ]
+  },
+  {
+   "file": "newtv军旅剧场.png",
+   "names": [
+    "newtv军旅剧场"
+   ]
+  },
+  {
+   "file": "newtv农业致富.png",
+   "names": [
+    "newtv农业致富"
+   ]
+  },
+  {
+   "file": "newtv动作电影.png",
+   "names": [
+    "newtv动作电影"
+   ]
+  },
+  {
+   "file": "newtv古装剧场.png",
+   "names": [
+    "newtv古装剧场"
+   ]
+  },
+  {
+   "file": "newtv哒啵电竞.png",
+   "names": [
+    "newtv哒啵电竞"
+   ]
+  },
+  {
+   "file": "newtv哒啵赛事.png",
+   "names": [
+    "newtv哒啵赛事"
+   ]
+  },
+  {
+   "file": "newtv家庭剧场.png",
+   "names": [
+    "newtv家庭剧场"
+   ]
+  },
+  {
+   "file": "newtv怡伴健康.png",
+   "names": [
+    "newtv怡伴健康"
+   ]
+  },
+  {
+   "file": "newtv惊悚悬疑.png",
+   "names": [
+    "newtv惊悚悬疑"
+   ]
+  },
+  {
+   "file": "newtv明星大片.png",
+   "names": [
+    "newtv明星大片"
+   ]
+  },
+  {
+   "file": "newtv欢乐剧场.png",
+   "names": [
+    "newtv欢乐剧场"
+   ]
+  },
+  {
+   "file": "NEWTV武博世界.png",
+   "names": [
+    "NEWTV武博世界"
+   ]
+  },
+  {
+   "file": "newtv潮妈辣婆.png",
+   "names": [
+    "newtv潮妈辣婆"
+   ]
+  },
+  {
+   "file": "newtv炫舞未来.png",
+   "names": [
+    "newtv炫舞未来"
+   ]
+  },
+  {
+   "file": "newtv爱情喜剧.png",
+   "names": [
+    "newtv爱情喜剧"
+   ]
+  },
+  {
+   "file": "newtv精品体育.png",
+   "names": [
+    "newtv精品体育"
+   ]
+  },
+  {
+   "file": "newtv精品大剧.png",
+   "names": [
+    "newtv精品大剧"
+   ]
+  },
+  {
+   "file": "newtv精品纪录.png",
+   "names": [
+    "newtv精品纪录"
+   ]
+  },
+  {
+   "file": "newtv精品综合.png",
+   "names": [
+    "newtv精品综合"
+   ]
+  },
+  {
+   "file": "newtv精品萌宠.png",
+   "names": [
+    "newtv精品萌宠"
+   ]
+  },
+  {
+   "file": "newtv超级体育.png",
+   "names": [
+    "newtv超级体育"
+   ]
+  },
+  {
+   "file": "newtv超级电影.png",
+   "names": [
+    "newtv超级电影"
+   ]
+  },
+  {
+   "file": "newtv超级电视剧.png",
+   "names": [
+    "newtv超级电视剧"
+   ]
+  },
+  {
+   "file": "NEWTV超级电视.png",
+   "names": [
+    "NEWTV超级电视"
+   ]
+  },
+  {
+   "file": "newtv超级综艺.png",
+   "names": [
+    "newtv超级综艺"
+   ]
+  },
+  {
+   "file": "newtv金牌综艺.png",
+   "names": [
+    "newtv金牌综艺"
+   ]
+  },
+  {
+   "file": "newtv魅力潇湘.png",
+   "names": [
+    "newtv魅力潇湘"
+   ]
+  },
+  {
+   "file": "NEWTV黑莓动画.png",
+   "names": [
+    "NEWTV黑莓动画"
+   ]
+  },
+  {
+   "file": "NEWTV黑莓电影.png",
+   "names": [
+    "NEWTV黑莓电影"
+   ]
+  },
+  {
+   "file": "QTV1.png",
+   "names": [
+    "QTV1"
+   ]
+  },
+  {
+   "file": "QTV2.png",
+   "names": [
+    "QTV2"
+   ]
+  },
+  {
+   "file": "QTV3.png",
+   "names": [
+    "QTV3"
+   ]
+  },
+  {
+   "file": "QTV4.png",
+   "names": [
+    "QTV4"
+   ]
+  },
+  {
+   "file": "QTV5.png",
+   "names": [
+    "QTV5"
+   ]
+  },
+  {
+   "file": "QTV6.png",
+   "names": [
+    "QTV6"
+   ]
+  },
+  {
+   "file": "qinghai.png",
+   "names": [
+    "qinghai"
+   ]
+  },
+  {
+   "file": "RTHKTV31.png",
+   "names": [
+    "RTHKTV31"
+   ]
+  },
+  {
+   "file": "RTHKTV32.png",
+   "names": [
+    "RTHKTV32"
+   ]
+  },
+  {
+   "file": "RTHKTV33.png",
+   "names": [
+    "RTHKTV33",
+    "港台电视33",
+    "港台33"
+   ]
+  },
+  {
+   "file": "SETNEWS.png",
+   "names": [
+    "SETNEWS"
+   ]
+  },
+  {
+   "file": "TVBSASIA.png",
+   "names": [
+    "TVBSASIA"
+   ]
+  },
+  {
+   "file": "TVBSNEWS.png",
+   "names": [
+    "TVBSNEWS"
+   ]
+  },
+  {
+   "file": "TAIWANPLUSTV.png",
+   "names": [
+    "TAIWANPLUSTV"
+   ]
+  },
+  {
+   "file": "TaiwanPlus.png",
+   "names": [
+    "TaiwanPlus"
+   ]
+  },
+  {
+   "file": "THRILL.png",
+   "names": [
+    "THRILL"
+   ]
+  },
+  {
+   "file": "VOA美国之音.png",
+   "names": [
+    "VOA美国之音"
+   ]
+  },
+  {
+   "file": "XINJIANG.png",
+   "names": [
+    "XINJIANG"
+   ]
+  },
+  {
+   "file": "cbn幸福剧场.png",
+   "names": [
+    "cbn幸福剧场"
+   ]
+  },
+  {
+   "file": "cbn幸福娱乐.png",
+   "names": [
+    "cbn幸福娱乐"
+   ]
+  },
+  {
+   "file": "cbn每日影院.png",
+   "names": [
+    "cbn每日影院"
+   ]
+  },
+  {
+   "file": "cbn风尚生活.png",
+   "names": [
+    "cbn风尚生活"
+   ]
+  },
+  {
+   "file": "CGTN纪录.png",
+   "names": [
+    "CGTN纪录",
+    "CGTN纪录片"
+   ]
+  },
+  {
+   "file": "CHC影迷电影.png",
+   "names": [
+    "CHC影迷电影"
+   ]
+  },
+  {
+   "file": "CITY都市剧场.png",
+   "names": [
+    "CITY都市剧场"
+   ]
+  },
+  {
+   "file": "CI罪案侦查频道.png",
+   "names": [
+    "CI罪案侦查频道"
+   ]
+  },
+  {
+   "file": "CNBCASIA财经台.png",
+   "names": [
+    "CNBCASIA财经台"
+   ]
+  },
+  {
+   "file": "Discovery科学.png",
+   "names": [
+    "Discovery科学"
+   ]
+  },
+  {
+   "file": "ELTV生活英语台.png",
+   "names": [
+    "ELTV生活英语台"
+   ]
+  },
+  {
+   "file": "History历史频道.png",
+   "names": [
+    "History历史频道"
+   ]
+  },
+  {
+   "file": "IHOT爱体育.png",
+   "names": [
+    "IHOT爱体育"
+   ]
+  },
+  {
+   "file": "IHOT爱动漫.png",
+   "names": [
+    "IHOT爱动漫"
+   ]
+  },
+  {
+   "file": "IHOT爱历史.png",
+   "names": [
+    "IHOT爱历史"
+   ]
+  },
+  {
+   "file": "IHOT爱喜剧.png",
+   "names": [
+    "IHOT爱喜剧"
+   ]
+  },
+  {
+   "file": "IHOT爱奇谈.png",
+   "names": [
+    "IHOT爱奇谈"
+   ]
+  },
+  {
+   "file": "IHOT爱幼教.png",
+   "names": [
+    "IHOT爱幼教"
+   ]
+  },
+  {
+   "file": "IHOT爱怀旧.png",
+   "names": [
+    "IHOT爱怀旧"
+   ]
+  },
+  {
+   "file": "IHOT爱悬疑.png",
+   "names": [
+    "IHOT爱悬疑"
+   ]
+  },
+  {
+   "file": "IHOT爱旅行.png",
+   "names": [
+    "IHOT爱旅行"
+   ]
+  },
+  {
+   "file": "IHOT爱浪漫.png",
+   "names": [
+    "IHOT爱浪漫"
+   ]
+  },
+  {
+   "file": "IHOT爱玩具.png",
+   "names": [
+    "IHOT爱玩具"
+   ]
+  },
+  {
+   "file": "iHOT爱电竞.png",
+   "names": [
+    "iHOT爱电竞"
+   ]
+  },
+  {
+   "file": "IHOT爱科学.png",
+   "names": [
+    "IHOT爱科学"
+   ]
+  },
+  {
+   "file": "IHOT爱科幻.png",
+   "names": [
+    "IHOT爱科幻"
+   ]
+  },
+  {
+   "file": "IHOT爱经典.png",
+   "names": [
+    "IHOT爱经典"
+   ]
+  },
+  {
+   "file": "IHOT爱谍战.png",
+   "names": [
+    "IHOT爱谍战"
+   ]
+  },
+  {
+   "file": "IHOT爱赛车.png",
+   "names": [
+    "IHOT爱赛车"
+   ]
+  },
+  {
+   "file": "IHOT爱都市.png",
+   "names": [
+    "IHOT爱都市"
+   ]
+  },
+  {
+   "file": "IHOT爱院线.png",
+   "names": [
+    "IHOT爱院线"
+   ]
+  },
+  {
+   "file": "IHOT爱青春.png",
+   "names": [
+    "IHOT爱青春"
+   ]
+  },
+  {
+   "file": "IFUN动漫台.png",
+   "names": [
+    "IFUN动漫台"
+   ]
+  },
+  {
+   "file": "IHOT爱世界.png",
+   "names": [
+    "IHOT爱世界"
+   ]
+  },
+  {
+   "file": "IHOT爱娱乐.png",
+   "names": [
+    "IHOT爱娱乐"
+   ]
+  },
+  {
+   "file": "IHOT爱家庭.png",
+   "names": [
+    "IHOT爱家庭"
+   ]
+  },
+  {
+   "file": "IHOT爱探索.png",
+   "names": [
+    "IHOT爱探索"
+   ]
+  },
+  {
+   "file": "IHOT爱时尚.png",
+   "names": [
+    "IHOT爱时尚"
+   ]
+  },
+  {
+   "file": "IHOT爱极限.png",
+   "names": [
+    "IHOT爱极限"
+   ]
+  },
+  {
+   "file": "IHOT爱江湖.png",
+   "names": [
+    "IHOT爱江湖"
+   ]
+  },
+  {
+   "file": "IHOT爱猎奇.png",
+   "names": [
+    "IHOT爱猎奇"
+   ]
+  },
+  {
+   "file": "IHOT爱美食.png",
+   "names": [
+    "IHOT爱美食"
+   ]
+  },
+  {
+   "file": "IHOT爱解密.png",
+   "names": [
+    "IHOT爱解密"
+   ]
+  },
+  {
+   "file": "IPTV少儿动画.png",
+   "names": [
+    "IPTV少儿动画"
+   ]
+  },
+  {
+   "file": "IPTV法治.png",
+   "names": [
+    "IPTV法治"
+   ]
+  },
+  {
+   "file": "IPTV热播剧场.png",
+   "names": [
+    "IPTV热播剧场"
+   ]
+  },
+  {
+   "file": "IPTV相声小品.png",
+   "names": [
+    "IPTV相声小品"
+   ]
+  },
+  {
+   "file": "IPTV经典电影.png",
+   "names": [
+    "IPTV经典电影"
+   ]
+  },
+  {
+   "file": "IPTV谍战剧场.png",
+   "names": [
+    "IPTV谍战剧场"
+   ]
+  },
+  {
+   "file": "IPTV野外.png",
+   "names": [
+    "IPTV野外"
+   ]
+  },
+  {
+   "file": "IPTV魅力时尚.png",
+   "names": [
+    "IPTV魅力时尚"
+   ]
+  },
+  {
+   "file": "MAX极速汽车.png",
+   "names": [
+    "MAX极速汽车"
+   ]
+  },
+  {
+   "file": "newtv动画王国.png",
+   "names": [
+    "newtv动画王国"
+   ]
+  },
+  {
+   "file": "newtv武搏世界.png",
+   "names": [
+    "newtv武搏世界"
+   ]
+  },
+  {
+   "file": "newtv海外剧场.png",
+   "names": [
+    "newtv海外剧场"
+   ]
+  },
+  {
+   "file": "newtv热播精选.png",
+   "names": [
+    "newtv热播精选"
+   ]
+  },
+  {
+   "file": "newtv精品记录.png",
+   "names": [
+    "newtv精品记录"
+   ]
+  },
+  {
+   "file": "newtv精彩综艺.png",
+   "names": [
+    "newtv精彩综艺"
+   ]
+  },
+  {
+   "file": "newtv精彩轮播.png",
+   "names": [
+    "newtv精彩轮播"
+   ]
+  },
+  {
+   "file": "newtv运动健身.png",
+   "names": [
+    "newtv运动健身"
+   ]
+  },
+  {
+   "file": "NOW新闻台.png",
+   "names": [
+    "NOW新闻台"
+   ]
+  },
+  {
+   "file": "SITV七彩戏剧.png",
+   "names": [
+    "SITV七彩戏剧"
+   ]
+  },
+  {
+   "file": "Smart知识台.png",
+   "names": [
+    "Smart知识台"
+   ]
+  },
+  {
+   "file": "TVBS亚洲.png",
+   "names": [
+    "TVBS亚洲"
+   ]
+  },
+  {
+   "file": "TVBS新闻.png",
+   "names": [
+    "TVBS新闻"
+   ]
+  },
+  {
+   "file": "TVBS欢乐.png",
+   "names": [
+    "TVBS欢乐"
+   ]
+  },
+  {
+   "file": "TVBS精采.png",
+   "names": [
+    "TVBS精采"
+   ]
+  },
+  {
+   "file": "TVB星河.png",
+   "names": [
+    "TVB星河"
+   ]
+  },
+  {
+   "file": "TVB 经典台.png",
+   "names": [
+    "TVB 经典台"
+   ]
+  },
+  {
+   "file": "七彩戏剧.png",
+   "names": [
+    "七彩戏剧"
+   ]
+  },
+  {
+   "file": "三佳购物.png",
+   "names": [
+    "三佳购物"
+   ]
+  },
+  {
+   "file": "三原综合.png",
+   "names": [
+    "三原综合"
+   ]
+  },
+  {
+   "file": "三明公共.png",
+   "names": [
+    "三明公共"
+   ]
+  },
+  {
+   "file": "三明电视台.png",
+   "names": [
+    "三明电视台"
+   ]
+  },
+  {
+   "file": "三明综合.png",
+   "names": [
+    "三明综合"
+   ]
+  },
+  {
+   "file": "三沙卫视.png",
+   "names": [
+    "三沙卫视"
+   ]
+  },
+  {
+   "file": "上海ICS外语.png",
+   "names": [
+    "上海ICS外语"
+   ]
+  },
+  {
+   "file": "上海ICS.png",
+   "names": [
+    "上海ICS"
+   ]
+  },
+  {
+   "file": "上海外语.png",
+   "names": [
+    "上海外语"
+   ]
+  },
+  {
+   "file": "上海教育.png",
+   "names": [
+    "上海教育"
+   ]
+  },
+  {
+   "file": "上海新闻综合.png",
+   "names": [
+    "上海新闻综合"
+   ]
+  },
+  {
+   "file": "上海第一财经.png",
+   "names": [
+    "上海第一财经"
+   ]
+  },
+  {
+   "file": "上海纪实人文.png",
+   "names": [
+    "上海纪实人文"
+   ]
+  },
+  {
+   "file": "上海都市.png",
+   "names": [
+    "上海都市"
+   ]
+  },
+  {
+   "file": "上视新闻.png",
+   "names": [
+    "上视新闻"
+   ]
+  },
+  {
+   "file": "东北热剧.png",
+   "names": [
+    "东北热剧"
+   ]
+  },
+  {
+   "file": "东南卫视.png",
+   "names": [
+    "东南卫视"
+   ]
+  },
+  {
+   "file": "东台综合.png",
+   "names": [
+    "东台综合"
+   ]
+  },
+  {
+   "file": "东方影视.png",
+   "names": [
+    "东方影视"
+   ]
+  },
+  {
+   "file": "东方财经.png",
+   "names": [
+    "东方财经"
+   ]
+  },
+  {
+   "file": "东方购物.png",
+   "names": [
+    "东方购物"
+   ]
+  },
+  {
+   "file": "东海新闻.png",
+   "names": [
+    "东海新闻"
+   ]
+  },
+  {
+   "file": "东莞新闻综合.png",
+   "names": [
+    "东莞新闻综合"
+   ]
+  },
+  {
+   "file": "东风卫视.png",
+   "names": [
+    "东风卫视"
+   ]
+  },
+  {
+   "file": "中华特产.png",
+   "names": [
+    "中华特产"
+   ]
+  },
+  {
+   "file": "中华美食.png",
+   "names": [
+    "中华美食"
+   ]
+  },
+  {
+   "file": "中国交通.png",
+   "names": [
+    "中国交通"
+   ]
+  },
+  {
+   "file": "中国天气.png",
+   "names": [
+    "中国天气"
+   ]
+  },
+  {
+   "file": "中国教育1台.png",
+   "names": [
+    "中国教育1台"
+   ]
+  },
+  {
+   "file": "中国教育.png",
+   "names": [
+    "中国教育"
+   ]
+  },
+  {
+   "file": "中国教育1.png",
+   "names": [
+    "中国教育1"
+   ]
+  },
+  {
+   "file": "中国教育2台.png",
+   "names": [
+    "中国教育2台"
+   ]
+  },
+  {
+   "file": "中国教育2.png",
+   "names": [
+    "中国教育2"
+   ]
+  },
+  {
+   "file": "中国教育3台.png",
+   "names": [
+    "中国教育3台"
+   ]
+  },
+  {
+   "file": "中国教育3.png",
+   "names": [
+    "中国教育3"
+   ]
+  },
+  {
+   "file": "中国教育4台.png",
+   "names": [
+    "中国教育4台"
+   ]
+  },
+  {
+   "file": "中国教育4.png",
+   "names": [
+    "中国教育4"
+   ]
+  },
+  {
+   "file": "中国气象.png",
+   "names": [
+    "中国气象"
+   ]
+  },
+  {
+   "file": "中天新闻.png",
+   "names": [
+    "中天新闻"
+   ]
+  },
+  {
+   "file": "中天新闻台.png",
+   "names": [
+    "中天新闻台"
+   ]
+  },
+  {
+   "file": "中视新闻.png",
+   "names": [
+    "中视新闻"
+   ]
+  },
+  {
+   "file": "中视新闻台.png",
+   "names": [
+    "中视新闻台"
+   ]
+  },
+  {
+   "file": "中视经典.png",
+   "names": [
+    "中视经典"
+   ]
+  },
+  {
+   "file": "中视菁采.png",
+   "names": [
+    "中视菁采"
+   ]
+  },
+  {
+   "file": "中视购物.png",
+   "names": [
+    "中视购物"
+   ]
+  },
+  {
+   "file": "临江综合.png",
+   "names": [
+    "临江综合"
+   ]
+  },
+  {
+   "file": "临潼综合.png",
+   "names": [
+    "临潼综合"
+   ]
+  },
+  {
+   "file": "丹阳新闻.png",
+   "names": [
+    "丹阳新闻"
+   ]
+  },
+  {
+   "file": "之江纪录.png",
+   "names": [
+    "之江纪录"
+   ]
+  },
+  {
+   "file": "乌兰察布.png",
+   "names": [
+    "乌兰察布"
+   ]
+  },
+  {
+   "file": "乌海新闻综合.png",
+   "names": [
+    "乌海新闻综合"
+   ]
+  },
+  {
+   "file": "乌海都市生活.png",
+   "names": [
+    "乌海都市生活"
+   ]
+  },
+  {
+   "file": "乐山文旅.png",
+   "names": [
+    "乐山文旅"
+   ]
+  },
+  {
+   "file": "乐山新闻.png",
+   "names": [
+    "乐山新闻"
+   ]
+  },
+  {
+   "file": "乐游.png",
+   "names": [
+    "乐游"
+   ]
+  },
+  {
+   "file": "二更视频.png",
+   "names": [
+    "二更视频"
+   ]
+  },
+  {
+   "file": "云南卫视.png",
+   "names": [
+    "云南卫视",
+    "云南卫视高清"
+   ]
+  },
+  {
+   "file": "云南娱乐.png",
+   "names": [
+    "云南娱乐"
+   ]
+  },
+  {
+   "file": "云南影视.png",
+   "names": [
+    "云南影视"
+   ]
+  },
+  {
+   "file": "云南都市.png",
+   "names": [
+    "云南都市"
+   ]
+  },
+  {
+   "file": "五星体育.png",
+   "names": [
+    "五星体育"
+   ]
+  },
+  {
+   "file": "亚洲新闻.png",
+   "names": [
+    "亚洲新闻"
+   ]
+  },
+  {
+   "file": "京视剧场.png",
+   "names": [
+    "京视剧场"
+   ]
+  },
+  {
+   "file": "人间卫视.png",
+   "names": [
+    "人间卫视"
+   ]
+  },
+  {
+   "file": "伊春综合.png",
+   "names": [
+    "伊春综合"
+   ]
+  },
+  {
+   "file": "伊通综合.png",
+   "names": [
+    "伊通综合"
+   ]
+  },
+  {
+   "file": "优优宝贝.png",
+   "names": [
+    "优优宝贝"
+   ]
+  },
+  {
+   "file": "优漫卡通.png",
+   "names": [
+    "优漫卡通"
+   ]
+  },
+  {
+   "file": "余姚姚江文化.png",
+   "names": [
+    "余姚姚江文化"
+   ]
+  },
+  {
+   "file": "余姚新闻综合.png",
+   "names": [
+    "余姚新闻综合"
+   ]
+  },
+  {
+   "file": "佛坪综合.png",
+   "names": [
+    "佛坪综合"
+   ]
+  },
+  {
+   "file": "佛山公共.png",
+   "names": [
+    "佛山公共"
+   ]
+  },
+  {
+   "file": "佛山影视.png",
+   "names": [
+    "佛山影视"
+   ]
+  },
+  {
+   "file": "佛山综合.png",
+   "names": [
+    "佛山综合",
+    "Foshan News TV"
+   ]
+  },
+  {
+   "file": "佳县综合.png",
+   "names": [
+    "佳县综合"
+   ]
+  },
+  {
+   "file": "佳木斯综合.png",
+   "names": [
+    "佳木斯综合"
+   ]
+  },
+  {
+   "file": "健身频道.png",
+   "names": [
+    "健身频道"
+   ]
+  },
+  {
+   "file": "先锋乒羽.png",
+   "names": [
+    "先锋乒羽"
+   ]
+  },
+  {
+   "file": "公视戏剧台.png",
+   "names": [
+    "公视戏剧台"
+   ]
+  },
+  {
+   "file": "六盘水公共.png",
+   "names": [
+    "六盘水公共"
+   ]
+  },
+  {
+   "file": "六盘水新闻综合.png",
+   "names": [
+    "六盘水新闻综合"
+   ]
+  },
+  {
+   "file": "兴平综合.png",
+   "names": [
+    "兴平综合"
+   ]
+  },
+  {
+   "file": "兵团卫视.png",
+   "names": [
+    "兵团卫视"
+   ]
+  },
+  {
+   "file": "内蒙古IPTV.png",
+   "names": [
+    "内蒙古IPTV"
+   ]
+  },
+  {
+   "file": "内蒙古农牧.png",
+   "names": [
+    "内蒙古农牧",
+    "内蒙农牧"
+   ]
+  },
+  {
+   "file": "内蒙古卫视.png",
+   "names": [
+    "内蒙古卫视",
+    "Nei Monggol TV",
+    "Inner Mongolia TV"
+   ]
+  },
+  {
+   "file": "内蒙古少儿.png",
+   "names": [
+    "内蒙古少儿",
+    "内蒙少儿"
+   ]
+  },
+  {
+   "file": "内蒙古文体娱乐.png",
+   "names": [
+    "内蒙古文体娱乐",
+    "内蒙文体"
+   ]
+  },
+  {
+   "file": "内蒙古新闻综合.png",
+   "names": [
+    "内蒙古新闻综合",
+    "内蒙新闻"
+   ]
+  },
+  {
+   "file": "内蒙古经济生活.png",
+   "names": [
+    "内蒙古经济生活",
+    "内蒙经济"
+   ]
+  },
+  {
+   "file": "内蒙古蒙语卫视.png",
+   "names": [
+    "内蒙古蒙语卫视",
+    "蒙语卫视",
+    "内蒙古蒙语"
+   ]
+  },
+  {
+   "file": "内蒙古蒙语文化.png",
+   "names": [
+    "内蒙古蒙语文化",
+    "蒙语文化"
+   ]
+  },
+  {
+   "file": "农业致富.png",
+   "names": [
+    "农业致富"
+   ]
+  },
+  {
+   "file": "农林卫视.png",
+   "names": [
+    "农林卫视"
+   ]
+  },
+  {
+   "file": "凤凰卫视电影台.png",
+   "names": [
+    "凤凰卫视电影台"
+   ]
+  },
+  {
+   "file": "凤翔综合.png",
+   "names": [
+    "凤翔综合"
+   ]
+  },
+  {
+   "file": "凯里综合.png",
+   "names": [
+    "凯里综合"
+   ]
+  },
+  {
+   "file": "前郭综合.png",
+   "names": [
+    "前郭综合"
+   ]
+  },
+  {
+   "file": "动作电影.png",
+   "names": [
+    "动作电影"
+   ]
+  },
+  {
+   "file": "動作.png",
+   "names": [
+    "動作"
+   ]
+  },
+  {
+   "file": "动漫秀场.png",
+   "names": [
+    "动漫秀场"
+   ]
+  },
+  {
+   "file": "动漫.png",
+   "names": [
+    "动漫"
+   ]
+  },
+  {
+   "file": "动画.png",
+   "names": [
+    "动画"
+   ]
+  },
+  {
+   "file": "劲爆体育.png",
+   "names": [
+    "劲爆体育"
+   ]
+  },
+  {
+   "file": "勉县综合.png",
+   "names": [
+    "勉县综合"
+   ]
+  },
+  {
+   "file": "包头新闻综合.png",
+   "names": [
+    "包头新闻综合"
+   ]
+  },
+  {
+   "file": "包头生活服务.png",
+   "names": [
+    "包头生活服务"
+   ]
+  },
+  {
+   "file": "包头经济频道.png",
+   "names": [
+    "包头经济频道"
+   ]
+  },
+  {
+   "file": "北京iptv4k.png",
+   "names": [
+    "北京iptv4k"
+   ]
+  },
+  {
+   "file": "北京体育休闲.png",
+   "names": [
+    "北京体育休闲"
+   ]
+  },
+  {
+   "file": "北京卫视.png",
+   "names": [
+    "北京卫视",
+    "北京卫视高清",
+    "BTV北京"
+   ]
+  },
+  {
+   "file": "北京.png",
+   "names": [
+    "北京"
+   ]
+  },
+  {
+   "file": "北京卫视4K.png",
+   "names": [
+    "北京卫视4K"
+   ]
+  },
+  {
+   "file": "北京大健康.png",
+   "names": [
+    "北京大健康"
+   ]
+  },
+  {
+   "file": "北京影视.png",
+   "names": [
+    "北京影视"
+   ]
+  },
+  {
+   "file": "北京文艺.png",
+   "names": [
+    "北京文艺"
+   ]
+  },
+  {
+   "file": "北京新闻.png",
+   "names": [
+    "北京新闻"
+   ]
+  },
+  {
+   "file": "北京淘BABY.png",
+   "names": [
+    "北京淘BABY"
+   ]
+  },
+  {
+   "file": "北京淘剧场.png",
+   "names": [
+    "北京淘剧场"
+   ]
+  },
+  {
+   "file": "北京淘娱乐.png",
+   "names": [
+    "北京淘娱乐"
+   ]
+  },
+  {
+   "file": "北京淘电影.png",
+   "names": [
+    "北京淘电影"
+   ]
+  },
+  {
+   "file": "北京淘精彩.png",
+   "names": [
+    "北京淘精彩"
+   ]
+  },
+  {
+   "file": "北京生活.png",
+   "names": [
+    "北京生活"
+   ]
+  },
+  {
+   "file": "北京纪实.png",
+   "names": [
+    "北京纪实"
+   ]
+  },
+  {
+   "file": "北京纪实科教.png",
+   "names": [
+    "北京纪实科教"
+   ]
+  },
+  {
+   "file": "北京财经.png",
+   "names": [
+    "北京财经"
+   ]
+  },
+  {
+   "file": "北京青年.png",
+   "names": [
+    "北京青年"
+   ]
+  },
+  {
+   "file": "千阳综合.png",
+   "names": [
+    "千阳综合"
+   ]
+  },
+  {
+   "file": "半岛新闻.png",
+   "names": [
+    "半岛新闻"
+   ]
+  },
+  {
+   "file": "华州综合.png",
+   "names": [
+    "华州综合"
+   ]
+  },
+  {
+   "file": "华数4K.png",
+   "names": [
+    "华数4K"
+   ]
+  },
+  {
+   "file": "华视新闻.png",
+   "names": [
+    "华视新闻"
+   ]
+  },
+  {
+   "file": "华语影院.png",
+   "names": [
+    "华语影院"
+   ]
+  },
+  {
+   "file": "华阴综合.png",
+   "names": [
+    "华阴综合"
+   ]
+  },
+  {
+   "file": "南京信息.png",
+   "names": [
+    "南京信息"
+   ]
+  },
+  {
+   "file": "南京十八.png",
+   "names": [
+    "南京十八"
+   ]
+  },
+  {
+   "file": "南京.png",
+   "names": [
+    "南京"
+   ]
+  },
+  {
+   "file": "南京娱乐.png",
+   "names": [
+    "南京娱乐"
+   ]
+  },
+  {
+   "file": "南京少儿.png",
+   "names": [
+    "南京少儿"
+   ]
+  },
+  {
+   "file": "南京影视.png",
+   "names": [
+    "南京影视"
+   ]
+  },
+  {
+   "file": "南京教科.png",
+   "names": [
+    "南京教科"
+   ]
+  },
+  {
+   "file": "南京新闻综合.png",
+   "names": [
+    "南京新闻综合"
+   ]
+  },
+  {
+   "file": "南京生活.png",
+   "names": [
+    "南京生活"
+   ]
+  },
+  {
+   "file": "南宁公共.png",
+   "names": [
+    "南宁公共"
+   ]
+  },
+  {
+   "file": "南宁影视.png",
+   "names": [
+    "南宁影视"
+   ]
+  },
+  {
+   "file": "南宁影视娱乐.png",
+   "names": [
+    "南宁影视娱乐"
+   ]
+  },
+  {
+   "file": "南宁新闻综合.png",
+   "names": [
+    "南宁新闻综合"
+   ]
+  },
+  {
+   "file": "南宁老友.png",
+   "names": [
+    "南宁老友"
+   ]
+  },
+  {
+   "file": "南宁都市.png",
+   "names": [
+    "南宁都市"
+   ]
+  },
+  {
+   "file": "南平公共.png",
+   "names": [
+    "南平公共"
+   ]
+  },
+  {
+   "file": "南平电视台.png",
+   "names": [
+    "南平电视台"
+   ]
+  },
+  {
+   "file": "南平综合.png",
+   "names": [
+    "南平综合"
+   ]
+  },
+  {
+   "file": "南方卫视.png",
+   "names": [
+    "南方卫视"
+   ]
+  },
+  {
+   "file": "南通公共.png",
+   "names": [
+    "南通公共"
+   ]
+  },
+  {
+   "file": "南通教育.png",
+   "names": [
+    "南通教育"
+   ]
+  },
+  {
+   "file": "南通新闻综合.png",
+   "names": [
+    "南通新闻综合"
+   ]
+  },
+  {
+   "file": "南通社教.png",
+   "names": [
+    "南通社教"
+   ]
+  },
+  {
+   "file": "南郑综合.png",
+   "names": [
+    "南郑综合"
+   ]
+  },
+  {
+   "file": "南阳.png",
+   "names": [
+    "南阳"
+   ]
+  },
+  {
+   "file": "卡酷少儿.png",
+   "names": [
+    "卡酷少儿",
+    "BRTV Kaku Childrens Channel",
+    "Kaku Childrens Channel"
+   ]
+  },
+  {
+   "file": "卫视中文.png",
+   "names": [
+    "卫视中文"
+   ]
+  },
+  {
+   "file": "卫视中文台.png",
+   "names": [
+    "卫视中文台"
+   ]
+  },
+  {
+   "file": "厦门1套.png",
+   "names": [
+    "厦门1套"
+   ]
+  },
+  {
+   "file": "厦门一套.png",
+   "names": [
+    "厦门一套"
+   ]
+  },
+  {
+   "file": "厦门三套.png",
+   "names": [
+    "厦门三套"
+   ]
+  },
+  {
+   "file": "厦门二套.png",
+   "names": [
+    "厦门二套"
+   ]
+  },
+  {
+   "file": "厦门卫视.png",
+   "names": [
+    "厦门卫视"
+   ]
+  },
+  {
+   "file": "厦门.png",
+   "names": [
+    "厦门"
+   ]
+  },
+  {
+   "file": "厦门影视.png",
+   "names": [
+    "厦门影视"
+   ]
+  },
+  {
+   "file": "厦门电视台1.png",
+   "names": [
+    "厦门电视台1"
+   ]
+  },
+  {
+   "file": "厦门电视台2.png",
+   "names": [
+    "厦门电视台2"
+   ]
+  },
+  {
+   "file": "厦门电视台3.png",
+   "names": [
+    "厦门电视台3"
+   ]
+  },
+  {
+   "file": "厦门综合.png",
+   "names": [
+    "厦门综合"
+   ]
+  },
+  {
+   "file": "双鸭山综合.png",
+   "names": [
+    "双鸭山综合"
+   ]
+  },
+  {
+   "file": "台视.png",
+   "names": [
+    "台视"
+   ]
+  },
+  {
+   "file": "台视新闻.png",
+   "names": [
+    "台视新闻"
+   ]
+  },
+  {
+   "file": "台视综合.png",
+   "names": [
+    "台视综合"
+   ]
+  },
+  {
+   "file": "台视财经.png",
+   "names": [
+    "台视财经"
+   ]
+  },
+  {
+   "file": "合阳综合.png",
+   "names": [
+    "合阳综合"
+   ]
+  },
+  {
+   "file": "吉林卫视.png",
+   "names": [
+    "吉林卫视",
+    "吉林卫视高清"
+   ]
+  },
+  {
+   "file": "吉林市新闻综合.png",
+   "names": [
+    "吉林市新闻综合",
+    "Jilin City Channel"
+   ]
+  },
+  {
+   "file": "吴堡综合.png",
+   "names": [
+    "吴堡综合"
+   ]
+  },
+  {
+   "file": "吴江新闻.png",
+   "names": [
+    "吴江新闻"
+   ]
+  },
+  {
+   "file": "吴起综合.png",
+   "names": [
+    "吴起综合"
+   ]
+  },
+  {
+   "file": "呼伦贝尔.png",
+   "names": [
+    "呼伦贝尔"
+   ]
+  },
+  {
+   "file": "呼伦贝尔文化旅游.png",
+   "names": [
+    "呼伦贝尔文化旅游"
+   ]
+  },
+  {
+   "file": "呼伦贝尔新闻综合.png",
+   "names": [
+    "呼伦贝尔新闻综合"
+   ]
+  },
+  {
+   "file": "呼伦贝尔生活资讯.png",
+   "names": [
+    "呼伦贝尔生活资讯"
+   ]
+  },
+  {
+   "file": "呼和浩特.png",
+   "names": [
+    "呼和浩特"
+   ]
+  },
+  {
+   "file": "呼和浩特影视娱乐.png",
+   "names": [
+    "呼和浩特影视娱乐"
+   ]
+  },
+  {
+   "file": "呼和浩特新闻综合.png",
+   "names": [
+    "呼和浩特新闻综合"
+   ]
+  },
+  {
+   "file": "呼和浩特都市生活.png",
+   "names": [
+    "呼和浩特都市生活"
+   ]
+  },
+  {
+   "file": "咪咕24小时体育.png",
+   "names": [
+    "咪咕24小时体育"
+   ]
+  },
+  {
+   "file": "咪咕4.png",
+   "names": [
+    "咪咕4"
+   ]
+  },
+  {
+   "file": "咪咕4k.png",
+   "names": [
+    "咪咕4k"
+   ]
+  },
+  {
+   "file": "咪咕乒乓球.png",
+   "names": [
+    "咪咕乒乓球"
+   ]
+  },
+  {
+   "file": "咪咕全民热练.png",
+   "names": [
+    "咪咕全民热练"
+   ]
+  },
+  {
+   "file": "咪咕台球.png",
+   "names": [
+    "咪咕台球"
+   ]
+  },
+  {
+   "file": "咪咕综合体育.png",
+   "names": [
+    "咪咕综合体育"
+   ]
+  },
+  {
+   "file": "咪咕足球.png",
+   "names": [
+    "咪咕足球"
+   ]
+  },
+  {
+   "file": "咪咕音乐.png",
+   "names": [
+    "咪咕音乐"
+   ]
+  },
+  {
+   "file": "咸阳综合.png",
+   "names": [
+    "咸阳综合"
+   ]
+  },
+  {
+   "file": "哈哈炫动.png",
+   "names": [
+    "哈哈炫动"
+   ]
+  },
+  {
+   "file": "哈尔滨娱乐.png",
+   "names": [
+    "哈尔滨娱乐"
+   ]
+  },
+  {
+   "file": "哈尔滨影视.png",
+   "names": [
+    "哈尔滨影视",
+    "Harbin Movie Channel"
+   ]
+  },
+  {
+   "file": "哈尔滨新闻综合.png",
+   "names": [
+    "哈尔滨新闻综合",
+    "Harbin Comprehensive News Channel"
+   ]
+  },
+  {
+   "file": "哈尔滨生活.png",
+   "names": [
+    "哈尔滨生活"
+   ]
+  },
+  {
+   "file": "哈尔滨综合.png",
+   "names": [
+    "哈尔滨综合"
+   ]
+  },
+  {
+   "file": "哈尔滨资讯.png",
+   "names": [
+    "哈尔滨资讯"
+   ]
+  },
+  {
+   "file": "响水综合.png",
+   "names": [
+    "响水综合"
+   ]
+  },
+  {
+   "file": "哒啵电竞.png",
+   "names": [
+    "哒啵电竞"
+   ]
+  },
+  {
+   "file": "哒啵赛事.png",
+   "names": [
+    "哒啵赛事"
+   ]
+  },
+  {
+   "file": "唯心电视.png",
+   "names": [
+    "唯心电视"
+   ]
+  },
+  {
+   "file": "商南综合.png",
+   "names": [
+    "商南综合"
+   ]
+  },
+  {
+   "file": "商洛公共.png",
+   "names": [
+    "商洛公共"
+   ]
+  },
+  {
+   "file": "商洛综合.png",
+   "names": [
+    "商洛综合"
+   ]
+  },
+  {
+   "file": "商郑综合.png",
+   "names": [
+    "商郑综合"
+   ]
+  },
+  {
+   "file": "嘉佳卡通.png",
+   "names": [
+    "嘉佳卡通"
+   ]
+  },
+  {
+   "file": "四川乡村.png",
+   "names": [
+    "四川乡村"
+   ]
+  },
+  {
+   "file": "四川卫视.png",
+   "names": [
+    "四川卫视",
+    "四川卫视高清"
+   ]
+  },
+  {
+   "file": "四川.png",
+   "names": [
+    "四川"
+   ]
+  },
+  {
+   "file": "四川妇女儿童.png",
+   "names": [
+    "四川妇女儿童"
+   ]
+  },
+  {
+   "file": "四川妇女.png",
+   "names": [
+    "四川妇女"
+   ]
+  },
+  {
+   "file": "四川峨眉电影.png",
+   "names": [
+    "四川峨眉电影"
+   ]
+  },
+  {
+   "file": "四川影视文艺.png",
+   "names": [
+    "四川影视文艺"
+   ]
+  },
+  {
+   "file": "四川文化旅游.png",
+   "names": [
+    "四川文化旅游"
+   ]
+  },
+  {
+   "file": "四川新闻.png",
+   "names": [
+    "四川新闻"
+   ]
+  },
+  {
+   "file": "四川科教.png",
+   "names": [
+    "四川科教"
+   ]
+  },
+  {
+   "file": "四川经济.png",
+   "names": [
+    "四川经济"
+   ]
+  },
+  {
+   "file": "四海钓鱼.png",
+   "names": [
+    "四海钓鱼"
+   ]
+  },
+  {
+   "file": "城固综合.png",
+   "names": [
+    "城固综合"
+   ]
+  },
+  {
+   "file": "增城电视台.png",
+   "names": [
+    "增城电视台"
+   ]
+  },
+  {
+   "file": "大丰公共.png",
+   "names": [
+    "大丰公共"
+   ]
+  },
+  {
+   "file": "大丰新闻.png",
+   "names": [
+    "大丰新闻"
+   ]
+  },
+  {
+   "file": "大庆公共.png",
+   "names": [
+    "大庆公共"
+   ]
+  },
+  {
+   "file": "大庆教育.png",
+   "names": [
+    "大庆教育"
+   ]
+  },
+  {
+   "file": "大庆新闻综合.png",
+   "names": [
+    "大庆新闻综合"
+   ]
+  },
+  {
+   "file": "大庆综合.png",
+   "names": [
+    "大庆综合"
+   ]
+  },
+  {
+   "file": "大湾区卫视.png",
+   "names": [
+    "大湾区卫视"
+   ]
+  },
+  {
+   "file": "大爱一台.png",
+   "names": [
+    "大爱一台"
+   ]
+  },
+  {
+   "file": "大爱海外.png",
+   "names": [
+    "大爱海外"
+   ]
+  },
+  {
+   "file": "大爱.png",
+   "names": [
+    "大爱"
+   ]
+  },
+  {
+   "file": "大爱电视.png",
+   "names": [
+    "大爱电视"
+   ]
+  },
+  {
+   "file": "大立电视.png",
+   "names": [
+    "大立电视"
+   ]
+  },
+  {
+   "file": "大荔综合.png",
+   "names": [
+    "大荔综合"
+   ]
+  },
+  {
+   "file": "天元围棋.png",
+   "names": [
+    "天元围棋"
+   ]
+  },
+  {
+   "file": "天才冲冲冲.png",
+   "names": [
+    "天才冲冲冲"
+   ]
+  },
+  {
+   "file": "天映频道.png",
+   "names": [
+    "天映频道"
+   ]
+  },
+  {
+   "file": "天津卫视.png",
+   "names": [
+    "天津卫视",
+    "天津卫视高清"
+   ]
+  },
+  {
+   "file": "太白综合.png",
+   "names": [
+    "太白综合"
+   ]
+  },
+  {
+   "file": "央广购物.png",
+   "names": [
+    "央广购物"
+   ]
+  },
+  {
+   "file": "央视高网.png",
+   "names": [
+    "央视高网"
+   ]
+  },
+  {
+   "file": "好享购物.png",
+   "names": [
+    "好享购物"
+   ]
+  },
+  {
+   "file": "姜堰综合.png",
+   "names": [
+    "姜堰综合"
+   ]
+  },
+  {
+   "file": "子洲综合.png",
+   "names": [
+    "子洲综合"
+   ]
+  },
+  {
+   "file": "子长综合.png",
+   "names": [
+    "子长综合"
+   ]
+  },
+  {
+   "file": "孟州电视台.png",
+   "names": [
+    "孟州电视台"
+   ]
+  },
+  {
+   "file": "宁夏公共.png",
+   "names": [
+    "宁夏公共"
+   ]
+  },
+  {
+   "file": "宁夏卫视.png",
+   "names": [
+    "宁夏卫视",
+    "宁夏卫视高清"
+   ]
+  },
+  {
+   "file": "宁夏经济.png",
+   "names": [
+    "宁夏经济"
+   ]
+  },
+  {
+   "file": "宁强综合.png",
+   "names": [
+    "宁强综合"
+   ]
+  },
+  {
+   "file": "宁德公共.png",
+   "names": [
+    "宁德公共"
+   ]
+  },
+  {
+   "file": "宁德综合.png",
+   "names": [
+    "宁德综合"
+   ]
+  },
+  {
+   "file": "宁陕综合.png",
+   "names": [
+    "宁陕综合"
+   ]
+  },
+  {
+   "file": "安多卫视.png",
+   "names": [
+    "安多卫视"
+   ]
+  },
+  {
+   "file": "安康综合.png",
+   "names": [
+    "安康综合"
+   ]
+  },
+  {
+   "file": "安徽公共.png",
+   "names": [
+    "安徽公共"
+   ]
+  },
+  {
+   "file": "安徽农业科教.png",
+   "names": [
+    "安徽农业科教"
+   ]
+  },
+  {
+   "file": "安徽.png",
+   "names": [
+    "安徽"
+   ]
+  },
+  {
+   "file": "安徽国际.png",
+   "names": [
+    "安徽国际"
+   ]
+  },
+  {
+   "file": "安徽影视.png",
+   "names": [
+    "安徽影视"
+   ]
+  },
+  {
+   "file": "安徽经济生活.png",
+   "names": [
+    "安徽经济生活"
+   ]
+  },
+  {
+   "file": "安徽综艺.png",
+   "names": [
+    "安徽综艺"
+   ]
+  },
+  {
+   "file": "安徽综艺体育.png",
+   "names": [
+    "安徽综艺体育"
+   ]
+  },
+  {
+   "file": "安顺公共.png",
+   "names": [
+    "安顺公共"
+   ]
+  },
+  {
+   "file": "安顺新闻综合.png",
+   "names": [
+    "安顺新闻综合",
+    "Anshun Comprehensive News Channel"
+   ]
+  },
+  {
+   "file": "定边综合.png",
+   "names": [
+    "定边综合"
+   ]
+  },
+  {
+   "file": "宜兴新闻.png",
+   "names": [
+    "宜兴新闻"
+   ]
+  },
+  {
+   "file": "宜兴紫砂.png",
+   "names": [
+    "宜兴紫砂"
+   ]
+  },
+  {
+   "file": "宜君综合.png",
+   "names": [
+    "宜君综合"
+   ]
+  },
+  {
+   "file": "宜川综合.png",
+   "names": [
+    "宜川综合"
+   ]
+  },
+  {
+   "file": "宝应新闻综合.png",
+   "names": [
+    "宝应新闻综合"
+   ]
+  },
+  {
+   "file": "宝应生活资讯.png",
+   "names": [
+    "宝应生活资讯"
+   ]
+  },
+  {
+   "file": "宝鸡公共.png",
+   "names": [
+    "宝鸡公共"
+   ]
+  },
+  {
+   "file": "宝鸡综合.png",
+   "names": [
+    "宝鸡综合"
+   ]
+  },
+  {
+   "file": "家家购物.png",
+   "names": [
+    "家家购物"
+   ]
+  },
+  {
+   "file": "家庭剧场.png",
+   "names": [
+    "家庭剧场"
+   ]
+  },
+  {
+   "file": "家庭影院.png",
+   "names": [
+    "家庭影院"
+   ]
+  },
+  {
+   "file": "家庭理财.png",
+   "names": [
+    "家庭理财"
+   ]
+  },
+  {
+   "file": "家有购物.png",
+   "names": [
+    "家有购物"
+   ]
+  },
+  {
+   "file": "宿豫综合.png",
+   "names": [
+    "宿豫综合"
+   ]
+  },
+  {
+   "file": "宿迁公共.png",
+   "names": [
+    "宿迁公共"
+   ]
+  },
+  {
+   "file": "宿迁新闻综合.png",
+   "names": [
+    "宿迁新闻综合"
+   ]
+  },
+  {
+   "file": "宿迁综合.png",
+   "names": [
+    "宿迁综合"
+   ]
+  },
+  {
+   "file": "富县综合.png",
+   "names": [
+    "富县综合"
+   ]
+  },
+  {
+   "file": "富平综合.png",
+   "names": [
+    "富平综合"
+   ]
+  },
+  {
+   "file": "寰宇新闻.png",
+   "names": [
+    "寰宇新闻"
+   ]
+  },
+  {
+   "file": "小猪佩奇.png",
+   "names": [
+    "小猪佩奇"
+   ]
+  },
+  {
+   "file": "山东体育.png",
+   "names": [
+    "山东体育"
+   ]
+  },
+  {
+   "file": "山东农科.png",
+   "names": [
+    "山东农科"
+   ]
+  },
+  {
+   "file": "山东卫视.png",
+   "names": [
+    "山东卫视",
+    "山东卫视高清"
+   ]
+  },
+  {
+   "file": "山东少儿.png",
+   "names": [
+    "山东少儿"
+   ]
+  },
+  {
+   "file": "山东影视.png",
+   "names": [
+    "山东影视"
+   ]
+  },
+  {
+   "file": "山东教育.png",
+   "names": [
+    "山东教育"
+   ]
+  },
+  {
+   "file": "山东教育卫视.png",
+   "names": [
+    "山东教育卫视"
+   ]
+  },
+  {
+   "file": "山东文旅.png",
+   "names": [
+    "山东文旅"
+   ]
+  },
+  {
+   "file": "山东新闻.png",
+   "names": [
+    "山东新闻"
+   ]
+  },
+  {
+   "file": "山东生活.png",
+   "names": [
+    "山东生活"
+   ]
+  },
+  {
+   "file": "山东综艺.png",
+   "names": [
+    "山东综艺"
+   ]
+  },
+  {
+   "file": "山东齐鲁.png",
+   "names": [
+    "山东齐鲁"
+   ]
+  },
+  {
+   "file": "山西卫视.png",
+   "names": [
+    "山西卫视",
+    "山西卫视高清"
+   ]
+  },
+  {
+   "file": "山西.png",
+   "names": [
+    "山西"
+   ]
+  },
+  {
+   "file": "山西影视.png",
+   "names": [
+    "山西影视"
+   ]
+  },
+  {
+   "file": "山西文体生活.png",
+   "names": [
+    "山西文体生活"
+   ]
+  },
+  {
+   "file": "山西社会与法治.png",
+   "names": [
+    "山西社会与法治"
+   ]
+  },
+  {
+   "file": "山西经济.png",
+   "names": [
+    "山西经济"
+   ]
+  },
+  {
+   "file": "山西黄河.png",
+   "names": [
+    "山西黄河"
+   ]
+  },
+  {
+   "file": "岐山综合.png",
+   "names": [
+    "岐山综合"
+   ]
+  },
+  {
+   "file": "岚皋综合.png",
+   "names": [
+    "岚皋综合"
+   ]
+  },
+  {
+   "file": "岭南戏曲.png",
+   "names": [
+    "岭南戏曲"
+   ]
+  },
+  {
+   "file": "崇川TV.png",
+   "names": [
+    "崇川TV"
+   ]
+  },
+  {
+   "file": "巅峰体育.png",
+   "names": [
+    "巅峰体育"
+   ]
+  },
+  {
+   "file": "巴彦淖尔影视娱乐.png",
+   "names": [
+    "巴彦淖尔影视娱乐"
+   ]
+  },
+  {
+   "file": "巴彦淖尔新闻综合.png",
+   "names": [
+    "巴彦淖尔新闻综合",
+    "巴彦淖尔新闻"
+   ]
+  },
+  {
+   "file": "巴彦淖尔经济生活.png",
+   "names": [
+    "巴彦淖尔经济生活"
+   ]
+  },
+  {
+   "file": "常州公共.png",
+   "names": [
+    "常州公共"
+   ]
+  },
+  {
+   "file": "常州新闻.png",
+   "names": [
+    "常州新闻"
+   ]
+  },
+  {
+   "file": "常州生活.png",
+   "names": [
+    "常州生活"
+   ]
+  },
+  {
+   "file": "常州都市.png",
+   "names": [
+    "常州都市"
+   ]
+  },
+  {
+   "file": "常熟民生.png",
+   "names": [
+    "常熟民生"
+   ]
+  },
+  {
+   "file": "常熟经济.png",
+   "names": [
+    "常熟经济"
+   ]
+  },
+  {
+   "file": "常熟综合.png",
+   "names": [
+    "常熟综合"
+   ]
+  },
+  {
+   "file": "乾县综合.png",
+   "names": [
+    "乾县综合"
+   ]
+  },
+  {
+   "file": "平利综合.png",
+   "names": [
+    "平利综合"
+   ]
+  },
+  {
+   "file": "平潭电视台.png",
+   "names": [
+    "平潭电视台"
+   ]
+  },
+  {
+   "file": "平潭综合.png",
+   "names": [
+    "平潭综合"
+   ]
+  },
+  {
+   "file": "年代ERANewsHD.png",
+   "names": [
+    "年代ERANewsHD"
+   ]
+  },
+  {
+   "file": "年代MUCH.png",
+   "names": [
+    "年代MUCH"
+   ]
+  },
+  {
+   "file": "幸福娱乐.png",
+   "names": [
+    "幸福娱乐"
+   ]
+  },
+  {
+   "file": "幸福空间居家台.png",
+   "names": [
+    "幸福空间居家台"
+   ]
+  },
+  {
+   "file": "广东4K.png",
+   "names": [
+    "广东4K"
+   ]
+  },
+  {
+   "file": "广东体育.png",
+   "names": [
+    "广东体育"
+   ]
+  },
+  {
+   "file": "广东公共.png",
+   "names": [
+    "广东公共"
+   ]
+  },
+  {
+   "file": "广东卫视.png",
+   "names": [
+    "广东卫视",
+    "广东卫视高清"
+   ]
+  },
+  {
+   "file": "广东卫视4K.png",
+   "names": [
+    "广东卫视4K"
+   ]
+  },
+  {
+   "file": "广东嘉佳卡通.png",
+   "names": [
+    "广东嘉佳卡通"
+   ]
+  },
+  {
+   "file": "广东少儿.png",
+   "names": [
+    "广东少儿"
+   ]
+  },
+  {
+   "file": "广东广电.png",
+   "names": [
+    "广东广电"
+   ]
+  },
+  {
+   "file": "广东影视.png",
+   "names": [
+    "广东影视"
+   ]
+  },
+  {
+   "file": "广东新闻.png",
+   "names": [
+    "广东新闻"
+   ]
+  },
+  {
+   "file": "广东民生.png",
+   "names": [
+    "广东民生"
+   ]
+  },
+  {
+   "file": "广东珠江.png",
+   "names": [
+    "广东珠江"
+   ]
+  },
+  {
+   "file": "广东经济科教.png",
+   "names": [
+    "广东经济科教"
+   ]
+  },
+  {
+   "file": "广东综艺.png",
+   "names": [
+    "广东综艺"
+   ]
+  },
+  {
+   "file": "广州影视.png",
+   "names": [
+    "广州影视"
+   ]
+  },
+  {
+   "file": "广州新闻.png",
+   "names": [
+    "广州新闻"
+   ]
+  },
+  {
+   "file": "广州法治.png",
+   "names": [
+    "广州法治"
+   ]
+  },
+  {
+   "file": "广州竞赛.png",
+   "names": [
+    "广州竞赛"
+   ]
+  },
+  {
+   "file": "广州综合.png",
+   "names": [
+    "广州综合",
+    "Guangzhou TV"
+   ]
+  },
+  {
+   "file": "广西乐思购.png",
+   "names": [
+    "广西乐思购"
+   ]
+  },
+  {
+   "file": "广西卫视.png",
+   "names": [
+    "广西卫视",
+    "广西卫视高清"
+   ]
+  },
+  {
+   "file": "广西.png",
+   "names": [
+    "广西"
+   ]
+  },
+  {
+   "file": "广西国际.png",
+   "names": [
+    "广西国际"
+   ]
+  },
+  {
+   "file": "广西影视.png",
+   "names": [
+    "广西影视"
+   ]
+  },
+  {
+   "file": "广西新闻.png",
+   "names": [
+    "广西新闻"
+   ]
+  },
+  {
+   "file": "广西移动.png",
+   "names": [
+    "广西移动"
+   ]
+  },
+  {
+   "file": "广西综艺旅游.png",
+   "names": [
+    "广西综艺旅游",
+    "Guangxi Variety & Travel Channel"
+   ]
+  },
+  {
+   "file": "广西都市.png",
+   "names": [
+    "广西都市"
+   ]
+  },
+  {
+   "file": "府谷综合.png",
+   "names": [
+    "府谷综合"
+   ]
+  },
+  {
+   "file": "康巴卫视.png",
+   "names": [
+    "康巴卫视"
+   ]
+  },
+  {
+   "file": "廉江综合.png",
+   "names": [
+    "廉江综合"
+   ]
+  },
+  {
+   "file": "延安综合.png",
+   "names": [
+    "延安综合"
+   ]
+  },
+  {
+   "file": "延川综合.png",
+   "names": [
+    "延川综合"
+   ]
+  },
+  {
+   "file": "延边卫视.png",
+   "names": [
+    "延边卫视"
+   ]
+  },
+  {
+   "file": "延长综合.png",
+   "names": [
+    "延长综合"
+   ]
+  },
+  {
+   "file": "弈坛春秋.png",
+   "names": [
+    "弈坛春秋"
+   ]
+  },
+  {
+   "file": "彬州综合.png",
+   "names": [
+    "彬州综合"
+   ]
+  },
+  {
+   "file": "影迷数位电影.png",
+   "names": [
+    "影迷数位电影"
+   ]
+  },
+  {
+   "file": "影迷电影.png",
+   "names": [
+    "影迷电影"
+   ]
+  },
+  {
+   "file": "影迷纪实.png",
+   "names": [
+    "影迷纪实"
+   ]
+  },
+  {
+   "file": "徐州1.png",
+   "names": [
+    "徐州1"
+   ]
+  },
+  {
+   "file": "徐州3.png",
+   "names": [
+    "徐州3"
+   ]
+  },
+  {
+   "file": "徐州4.png",
+   "names": [
+    "徐州4"
+   ]
+  },
+  {
+   "file": "徐州公共.png",
+   "names": [
+    "徐州公共"
+   ]
+  },
+  {
+   "file": "徐州文艺影视.png",
+   "names": [
+    "徐州文艺影视"
+   ]
+  },
+  {
+   "file": "徐州新闻综合.png",
+   "names": [
+    "徐州新闻综合"
+   ]
+  },
+  {
+   "file": "徐州经济生活.png",
+   "names": [
+    "徐州经济生活"
+   ]
+  },
+  {
+   "file": "志丹综合.png",
+   "names": [
+    "志丹综合"
+   ]
+  },
+  {
+   "file": "快乐垂钓.png",
+   "names": [
+    "快乐垂钓"
+   ]
+  },
+  {
+   "file": "思南综合.png",
+   "names": [
+    "思南综合"
+   ]
+  },
+  {
+   "file": "成都公共.png",
+   "names": [
+    "成都公共"
+   ]
+  },
+  {
+   "file": "成都少儿.png",
+   "names": [
+    "成都少儿"
+   ]
+  },
+  {
+   "file": "成都影视文艺.png",
+   "names": [
+    "成都影视文艺"
+   ]
+  },
+  {
+   "file": "成都新闻综合.png",
+   "names": [
+    "成都新闻综合"
+   ]
+  },
+  {
+   "file": "成都经济资讯.png",
+   "names": [
+    "成都经济资讯"
+   ]
+  },
+  {
+   "file": "成都都市生活.png",
+   "names": [
+    "成都都市生活"
+   ]
+  },
+  {
+   "file": "成铁电视.png",
+   "names": [
+    "成铁电视"
+   ]
+  },
+  {
+   "file": "扬中新闻.png",
+   "names": [
+    "扬中新闻"
+   ]
+  },
+  {
+   "file": "扬州城市.png",
+   "names": [
+    "扬州城市"
+   ]
+  },
+  {
+   "file": "扬州教育.png",
+   "names": [
+    "扬州教育"
+   ]
+  },
+  {
+   "file": "扬州新闻.png",
+   "names": [
+    "扬州新闻"
+   ]
+  },
+  {
+   "file": "扬州生活.png",
+   "names": [
+    "扬州生活"
+   ]
+  },
+  {
+   "file": "扶风综合.png",
+   "names": [
+    "扶风综合"
+   ]
+  },
+  {
+   "file": "抚松综合.png",
+   "names": [
+    "抚松综合"
+   ]
+  },
+  {
+   "file": "收藏天下.png",
+   "names": [
+    "收藏天下"
+   ]
+  },
+  {
+   "file": "文山公共.png",
+   "names": [
+    "文山公共"
+   ]
+  },
+  {
+   "file": "文山新闻综合.png",
+   "names": [
+    "文山新闻综合"
+   ]
+  },
+  {
+   "file": "文物宝库.png",
+   "names": [
+    "文物宝库"
+   ]
+  },
+  {
+   "file": "新昌新闻综合.png",
+   "names": [
+    "新昌新闻综合"
+   ]
+  },
+  {
+   "file": "新沂新闻综合.png",
+   "names": [
+    "新沂新闻综合"
+   ]
+  },
+  {
+   "file": "新沂生活.png",
+   "names": [
+    "新沂生活"
+   ]
+  },
+  {
+   "file": "新疆体育健康.png",
+   "names": [
+    "新疆体育健康"
+   ]
+  },
+  {
+   "file": "新疆卫视.png",
+   "names": [
+    "新疆卫视",
+    "新疆卫视高清"
+   ]
+  },
+  {
+   "file": "新疆少儿.png",
+   "names": [
+    "新疆少儿"
+   ]
+  },
+  {
+   "file": "新疆汉语经济.png",
+   "names": [
+    "新疆汉语经济"
+   ]
+  },
+  {
+   "file": "新疆汉语综艺.png",
+   "names": [
+    "新疆汉语综艺"
+   ]
+  },
+  {
+   "file": "新郑综合.png",
+   "names": [
+    "新郑综合"
+   ]
+  },
+  {
+   "file": "新闻综合.png",
+   "names": [
+    "新闻综合"
+   ]
+  },
+  {
+   "file": "无线财经台.png",
+   "names": [
+    "无线财经台"
+   ]
+  },
+  {
+   "file": "无锡新闻综合.png",
+   "names": [
+    "无锡新闻综合"
+   ]
+  },
+  {
+   "file": "早期教育.png",
+   "names": [
+    "早期教育"
+   ]
+  },
+  {
+   "file": "旬邑综合.png",
+   "names": [
+    "旬邑综合"
+   ]
+  },
+  {
+   "file": "旬阳综合.png",
+   "names": [
+    "旬阳综合"
+   ]
+  },
+  {
+   "file": "时尚购物.png",
+   "names": [
+    "时尚购物"
+   ]
+  },
+  {
+   "file": "明星大片.png",
+   "names": [
+    "明星大片"
+   ]
+  },
+  {
+   "file": "星空卫视.png",
+   "names": [
+    "星空卫视"
+   ]
+  },
+  {
+   "file": "星空.png",
+   "names": [
+    "星空"
+   ]
+  },
+  {
+   "file": "晋中公共.png",
+   "names": [
+    "晋中公共"
+   ]
+  },
+  {
+   "file": "晋中综合.png",
+   "names": [
+    "晋中综合"
+   ]
+  },
+  {
+   "file": "晴彩中原.png",
+   "names": [
+    "晴彩中原"
+   ]
+  },
+  {
+   "file": "杨凌综合.png",
+   "names": [
+    "杨凌综合"
+   ]
+  },
+  {
+   "file": "杭锦旗综合.png",
+   "names": [
+    "杭锦旗综合"
+   ]
+  },
+  {
+   "file": "柞水综合.png",
+   "names": [
+    "柞水综合"
+   ]
+  },
+  {
+   "file": "桐梓综合.png",
+   "names": [
+    "桐梓综合"
+   ]
+  },
+  {
+   "file": "梧州公共.png",
+   "names": [
+    "梧州公共"
+   ]
+  },
+  {
+   "file": "梧州教育生活.png",
+   "names": [
+    "梧州教育生活"
+   ]
+  },
+  {
+   "file": "梧州新闻综合.png",
+   "names": [
+    "梧州新闻综合"
+   ]
+  },
+  {
+   "file": "梨树新闻.png",
+   "names": [
+    "梨树新闻"
+   ]
+  },
+  {
+   "file": "榆林综合.png",
+   "names": [
+    "榆林综合"
+   ]
+  },
+  {
+   "file": "榆阳综合.png",
+   "names": [
+    "榆阳综合"
+   ]
+  },
+  {
+   "file": "横山综合.png",
+   "names": [
+    "横山综合"
+   ]
+  },
+  {
+   "file": "欢乐剧场.png",
+   "names": [
+    "欢乐剧场"
+   ]
+  },
+  {
+   "file": "欢笑剧场.png",
+   "names": [
+    "欢笑剧场"
+   ]
+  },
+  {
+   "file": "欢笑剧场4K.png",
+   "names": [
+    "欢笑剧场4K"
+   ]
+  },
+  {
+   "file": "欢腾购物.png",
+   "names": [
+    "欢腾购物"
+   ]
+  },
+  {
+   "file": "武功综合.png",
+   "names": [
+    "武功综合"
+   ]
+  },
+  {
+   "file": "武术世界.png",
+   "names": [
+    "武术世界"
+   ]
+  },
+  {
+   "file": "武进新闻.png",
+   "names": [
+    "武进新闻"
+   ]
+  },
+  {
+   "file": "武进生活.png",
+   "names": [
+    "武进生活"
+   ]
+  },
+  {
+   "file": "每日影院.png",
+   "names": [
+    "每日影院"
+   ]
+  },
+  {
+   "file": "毕节影视文艺.png",
+   "names": [
+    "毕节影视文艺"
+   ]
+  },
+  {
+   "file": "毕节新闻综合.png",
+   "names": [
+    "毕节新闻综合"
+   ]
+  },
+  {
+   "file": "民视台湾台.png",
+   "names": [
+    "民视台湾台"
+   ]
+  },
+  {
+   "file": "民视新闻台.png",
+   "names": [
+    "民视新闻台"
+   ]
+  },
+  {
+   "file": "民视旅游台.png",
+   "names": [
+    "民视旅游台"
+   ]
+  },
+  {
+   "file": "民视第一台.png",
+   "names": [
+    "民视第一台"
+   ]
+  },
+  {
+   "file": "民视综艺台.png",
+   "names": [
+    "民视综艺台"
+   ]
+  },
+  {
+   "file": "永寿综合.png",
+   "names": [
+    "永寿综合"
+   ]
+  },
+  {
+   "file": "求索记录.png",
+   "names": [
+    "求索记录"
+   ]
+  },
+  {
+   "file": "汉中公共.png",
+   "names": [
+    "汉中公共"
+   ]
+  },
+  {
+   "file": "汉中教育.png",
+   "names": [
+    "汉中教育"
+   ]
+  },
+  {
+   "file": "汉中综合.png",
+   "names": [
+    "汉中综合"
+   ]
+  },
+  {
+   "file": "汉阴综合.png",
+   "names": [
+    "汉阴综合"
+   ]
+  },
+  {
+   "file": "汕头经济.png",
+   "names": [
+    "汕头经济"
+   ]
+  },
+  {
+   "file": "汕头综合.png",
+   "names": [
+    "汕头综合"
+   ]
+  },
+  {
+   "file": "江宁综合.png",
+   "names": [
+    "江宁综合"
+   ]
+  },
+  {
+   "file": "江苏休闲体育.png",
+   "names": [
+    "江苏休闲体育"
+   ]
+  },
+  {
+   "file": "江苏优漫卡通.png",
+   "names": [
+    "江苏优漫卡通"
+   ]
+  },
+  {
+   "file": "江苏体育.png",
+   "names": [
+    "江苏体育"
+   ]
+  },
+  {
+   "file": "江苏公共.png",
+   "names": [
+    "江苏公共"
+   ]
+  },
+  {
+   "file": "江苏公共新闻.png",
+   "names": [
+    "江苏公共新闻",
+    "Jiangsu Public & News Channel"
+   ]
+  },
+  {
+   "file": "江苏.png",
+   "names": [
+    "江苏"
+   ]
+  },
+  {
+   "file": "江苏国际.png",
+   "names": [
+    "江苏国际"
+   ]
+  },
+  {
+   "file": "江苏城市.png",
+   "names": [
+    "江苏城市"
+   ]
+  },
+  {
+   "file": "江苏影视.png",
+   "names": [
+    "江苏影视"
+   ]
+  },
+  {
+   "file": "江苏教育.png",
+   "names": [
+    "江苏教育"
+   ]
+  },
+  {
+   "file": "江苏教育电视台.png",
+   "names": [
+    "江苏教育电视台"
+   ]
+  },
+  {
+   "file": "江苏新闻.png",
+   "names": [
+    "江苏新闻"
+   ]
+  },
+  {
+   "file": "江苏综艺.png",
+   "names": [
+    "江苏综艺"
+   ]
+  },
+  {
+   "file": "江西卫视.png",
+   "names": [
+    "江西卫视",
+    "江西卫视高清"
+   ]
+  },
+  {
+   "file": "江西少儿.png",
+   "names": [
+    "江西少儿",
+    "Jiangxi Children's Channel"
+   ]
+  },
+  {
+   "file": "江西教育.png",
+   "names": [
+    "江西教育"
+   ]
+  },
+  {
+   "file": "江西新闻.png",
+   "names": [
+    "江西新闻"
+   ]
+  },
+  {
+   "file": "江西经济生活.png",
+   "names": [
+    "江西经济生活",
+    "Jiangxi Economy & Life Channel"
+   ]
+  },
+  {
+   "file": "汪清综合.png",
+   "names": [
+    "汪清综合"
+   ]
+  },
+  {
+   "file": "沛县影视.png",
+   "names": [
+    "沛县影视"
+   ]
+  },
+  {
+   "file": "沛县生活.png",
+   "names": [
+    "沛县生活"
+   ]
+  },
+  {
+   "file": "沛县综合.png",
+   "names": [
+    "沛县综合"
+   ]
+  },
+  {
+   "file": "沭阳综合.png",
+   "names": [
+    "沭阳综合"
+   ]
+  },
+  {
+   "file": "河北卫视.png",
+   "names": [
+    "河北卫视",
+    "Hebei TV"
+   ]
+  },
+  {
+   "file": "河南4K.png",
+   "names": [
+    "河南4K"
+   ]
+  },
+  {
+   "file": "河南乡村.png",
+   "names": [
+    "河南乡村"
+   ]
+  },
+  {
+   "file": "河南公共.png",
+   "names": [
+    "河南公共"
+   ]
+  },
+  {
+   "file": "河南卫视.png",
+   "names": [
+    "河南卫视",
+    "河南卫视高清",
+    "大象台"
+   ]
+  },
+  {
+   "file": "河南.png",
+   "names": [
+    "河南"
+   ]
+  },
+  {
+   "file": "河南国际.png",
+   "names": [
+    "河南国际"
+   ]
+  },
+  {
+   "file": "河南新闻.png",
+   "names": [
+    "河南新闻"
+   ]
+  },
+  {
+   "file": "河南梨园.png",
+   "names": [
+    "河南梨园"
+   ]
+  },
+  {
+   "file": "河南民生.png",
+   "names": [
+    "河南民生"
+   ]
+  },
+  {
+   "file": "河南法治.png",
+   "names": [
+    "河南法治"
+   ]
+  },
+  {
+   "file": "河南电视剧.png",
+   "names": [
+    "河南电视剧"
+   ]
+  },
+  {
+   "file": "河南都市.png",
+   "names": [
+    "河南都市"
+   ]
+  },
+  {
+   "file": "河源综合.png",
+   "names": [
+    "河源综合"
+   ]
+  },
+  {
+   "file": "泉州一套.png",
+   "names": [
+    "泉州一套"
+   ]
+  },
+  {
+   "file": "泉州三套.png",
+   "names": [
+    "泉州三套"
+   ]
+  },
+  {
+   "file": "泉州二套.png",
+   "names": [
+    "泉州二套"
+   ]
+  },
+  {
+   "file": "泉州四套.png",
+   "names": [
+    "泉州四套"
+   ]
+  },
+  {
+   "file": "泉州影视.png",
+   "names": [
+    "泉州影视"
+   ]
+  },
+  {
+   "file": "泉州新闻.png",
+   "names": [
+    "泉州新闻"
+   ]
+  },
+  {
+   "file": "泉州电视台.png",
+   "names": [
+    "泉州电视台"
+   ]
+  },
+  {
+   "file": "泉州综合.png",
+   "names": [
+    "泉州综合"
+   ]
+  },
+  {
+   "file": "泉州都市生活.png",
+   "names": [
+    "泉州都市生活"
+   ]
+  },
+  {
+   "file": "泉州闽南语.png",
+   "names": [
+    "泉州闽南语"
+   ]
+  },
+  {
+   "file": "法制天地.png",
+   "names": [
+    "法制天地"
+   ]
+  },
+  {
+   "file": "法治天地.png",
+   "names": [
+    "法治天地"
+   ]
+  },
+  {
+   "file": "法治.png",
+   "names": [
+    "法治"
+   ]
+  },
+  {
+   "file": "泗阳综合.png",
+   "names": [
+    "泗阳综合"
+   ]
+  },
+  {
+   "file": "泗阳资讯.png",
+   "names": [
+    "泗阳资讯"
+   ]
+  },
+  {
+   "file": "泰州一套.png",
+   "names": [
+    "泰州一套"
+   ]
+  },
+  {
+   "file": "泰州三套.png",
+   "names": [
+    "泰州三套"
+   ]
+  },
+  {
+   "file": "泰州二套.png",
+   "names": [
+    "泰州二套"
+   ]
+  },
+  {
+   "file": "泰州新闻综合.png",
+   "names": [
+    "泰州新闻综合"
+   ]
+  },
+  {
+   "file": "洋县综合.png",
+   "names": [
+    "洋县综合"
+   ]
+  },
+  {
+   "file": "洛南综合.png",
+   "names": [
+    "洛南综合"
+   ]
+  },
+  {
+   "file": "洛川综合.png",
+   "names": [
+    "洛川综合"
+   ]
+  },
+  {
+   "file": "洪泽综合.png",
+   "names": [
+    "洪泽综合"
+   ]
+  },
+  {
+   "file": "洮南综合.png",
+   "names": [
+    "洮南综合"
+   ]
+  },
+  {
+   "file": "浙江之江纪录.png",
+   "names": [
+    "浙江之江纪录"
+   ]
+  },
+  {
+   "file": "浙江公共新闻.png",
+   "names": [
+    "浙江公共新闻"
+   ]
+  },
+  {
+   "file": "浙江.png",
+   "names": [
+    "浙江"
+   ]
+  },
+  {
+   "file": "浙江国际.png",
+   "names": [
+    "浙江国际",
+    "Zhejiang TV International"
+   ]
+  },
+  {
+   "file": "浙江好易购.png",
+   "names": [
+    "浙江好易购"
+   ]
+  },
+  {
+   "file": "浙江少儿.png",
+   "names": [
+    "浙江少儿"
+   ]
+  },
+  {
+   "file": "浙江教科.png",
+   "names": [
+    "浙江教科"
+   ]
+  },
+  {
+   "file": "浙江教科影视.png",
+   "names": [
+    "浙江教科影视"
+   ]
+  },
+  {
+   "file": "浙江数码时代.png",
+   "names": [
+    "浙江数码时代"
+   ]
+  },
+  {
+   "file": "浙江新闻.png",
+   "names": [
+    "浙江新闻"
+   ]
+  },
+  {
+   "file": "浙江民生.png",
+   "names": [
+    "浙江民生"
+   ]
+  },
+  {
+   "file": "浙江民生休闲.png",
+   "names": [
+    "浙江民生休闲"
+   ]
+  },
+  {
+   "file": "浙江经济.png",
+   "names": [
+    "浙江经济"
+   ]
+  },
+  {
+   "file": "浙江经济生活.png",
+   "names": [
+    "浙江经济生活"
+   ]
+  },
+  {
+   "file": "浙江钱江.png",
+   "names": [
+    "浙江钱江"
+   ]
+  },
+  {
+   "file": "浙江钱江都市.png",
+   "names": [
+    "浙江钱江都市"
+   ]
+  },
+  {
+   "file": "浦东电视台.png",
+   "names": [
+    "浦东电视台"
+   ]
+  },
+  {
+   "file": "海南公共.png",
+   "names": [
+    "海南公共"
+   ]
+  },
+  {
+   "file": "海南卫视.png",
+   "names": [
+    "海南卫视",
+    "海南卫视高清",
+    "旅游卫视"
+   ]
+  },
+  {
+   "file": "海南少儿.png",
+   "names": [
+    "海南少儿"
+   ]
+  },
+  {
+   "file": "海南文旅.png",
+   "names": [
+    "海南文旅"
+   ]
+  },
+  {
+   "file": "海南新闻.png",
+   "names": [
+    "海南新闻"
+   ]
+  },
+  {
+   "file": "海南经济.png",
+   "names": [
+    "海南经济"
+   ]
+  },
+  {
+   "file": "海南自贸.png",
+   "names": [
+    "海南自贸"
+   ]
+  },
+  {
+   "file": "海安综合.png",
+   "names": [
+    "海安综合"
+   ]
+  },
+  {
+   "file": "海峡卫视.png",
+   "names": [
+    "海峡卫视"
+   ]
+  },
+  {
+   "file": "海豚综合.png",
+   "names": [
+    "海豚综合"
+   ]
+  },
+  {
+   "file": "淘baby.png",
+   "names": [
+    "淘baby"
+   ]
+  },
+  {
+   "file": "淮安综合.png",
+   "names": [
+    "淮安综合"
+   ]
+  },
+  {
+   "file": "深圳卫视.png",
+   "names": [
+    "深圳卫视",
+    "Shenzhen Satellite TV"
+   ]
+  },
+  {
+   "file": "深圳.png",
+   "names": [
+    "深圳"
+   ]
+  },
+  {
+   "file": "深圳卫视4K.png",
+   "names": [
+    "深圳卫视4K"
+   ]
+  },
+  {
+   "file": "深圳都市.png",
+   "names": [
+    "深圳都市"
+   ]
+  },
+  {
+   "file": "淳化综合.png",
+   "names": [
+    "淳化综合"
+   ]
+  },
+  {
+   "file": "清涧综合.png",
+   "names": [
+    "清涧综合"
+   ]
+  },
+  {
+   "file": "温州公共.png",
+   "names": [
+    "温州公共"
+   ]
+  },
+  {
+   "file": "温州新闻.png",
+   "names": [
+    "温州新闻"
+   ]
+  },
+  {
+   "file": "温州经济.png",
+   "names": [
+    "温州经济"
+   ]
+  },
+  {
+   "file": "温州都市.png",
+   "names": [
+    "温州都市"
+   ]
+  },
+  {
+   "file": "渭南公共.png",
+   "names": [
+    "渭南公共"
+   ]
+  },
+  {
+   "file": "渭南综合.png",
+   "names": [
+    "渭南综合"
+   ]
+  },
+  {
+   "file": "港台电视31.png",
+   "names": [
+    "港台电视31"
+   ]
+  },
+  {
+   "file": "港台电视32.png",
+   "names": [
+    "港台电视32"
+   ]
+  },
+  {
+   "file": "游戏风云.png",
+   "names": [
+    "游戏风云"
+   ]
+  },
+  {
+   "file": "湖北公共·新闻.png",
+   "names": [
+    "湖北公共·新闻"
+   ]
+  },
+  {
+   "file": "湖北影视.png",
+   "names": [
+    "湖北影视"
+   ]
+  },
+  {
+   "file": "湖北教育.png",
+   "names": [
+    "湖北教育"
+   ]
+  },
+  {
+   "file": "湖北生活.png",
+   "names": [
+    "湖北生活"
+   ]
+  },
+  {
+   "file": "湖北经济.png",
+   "names": [
+    "湖北经济"
+   ]
+  },
+  {
+   "file": "湖北综合.png",
+   "names": [
+    "湖北综合"
+   ]
+  },
+  {
+   "file": "湖北陇上.png",
+   "names": [
+    "湖北陇上"
+   ]
+  },
+  {
+   "file": "湖南.png",
+   "names": [
+    "湖南"
+   ]
+  },
+  {
+   "file": "湖南国际.png",
+   "names": [
+    "湖南国际"
+   ]
+  },
+  {
+   "file": "湖南娱乐.png",
+   "names": [
+    "湖南娱乐"
+   ]
+  },
+  {
+   "file": "湖南教育.png",
+   "names": [
+    "湖南教育"
+   ]
+  },
+  {
+   "file": "湖南爱晚.png",
+   "names": [
+    "湖南爱晚"
+   ]
+  },
+  {
+   "file": "湖南电影.png",
+   "names": [
+    "湖南电影"
+   ]
+  },
+  {
+   "file": "湖南电视剧.png",
+   "names": [
+    "湖南电视剧"
+   ]
+  },
+  {
+   "file": "湖南经视.png",
+   "names": [
+    "湖南经视"
+   ]
+  },
+  {
+   "file": "湖南都市.png",
+   "names": [
+    "湖南都市"
+   ]
+  },
+  {
+   "file": "湖南金鹰卡通.png",
+   "names": [
+    "湖南金鹰卡通"
+   ]
+  },
+  {
+   "file": "源味中国.png",
+   "names": [
+    "源味中国"
+   ]
+  },
+  {
+   "file": "漠河综合.png",
+   "names": [
+    "漠河综合"
+   ]
+  },
+  {
+   "file": "漳州新闻.png",
+   "names": [
+    "漳州新闻"
+   ]
+  },
+  {
+   "file": "漳州电视台.png",
+   "names": [
+    "漳州电视台"
+   ]
+  },
+  {
+   "file": "漳州综合.png",
+   "names": [
+    "漳州综合"
+   ]
+  },
+  {
+   "file": "潍坊中医.png",
+   "names": [
+    "潍坊中医"
+   ]
+  },
+  {
+   "file": "潍坊临朐.png",
+   "names": [
+    "潍坊临朐"
+   ]
+  },
+  {
+   "file": "潍坊书画.png",
+   "names": [
+    "潍坊书画"
+   ]
+  },
+  {
+   "file": "潍坊交警.png",
+   "names": [
+    "潍坊交警"
+   ]
+  },
+  {
+   "file": "潍坊人大.png",
+   "names": [
+    "潍坊人大"
+   ]
+  },
+  {
+   "file": "潍坊企业家.png",
+   "names": [
+    "潍坊企业家"
+   ]
+  },
+  {
+   "file": "潍坊体育.png",
+   "names": [
+    "潍坊体育"
+   ]
+  },
+  {
+   "file": "潍坊保税.png",
+   "names": [
+    "潍坊保税"
+   ]
+  },
+  {
+   "file": "潍坊健康.png",
+   "names": [
+    "潍坊健康"
+   ]
+  },
+  {
+   "file": "潍坊党建.png",
+   "names": [
+    "潍坊党建"
+   ]
+  },
+  {
+   "file": "潍坊公安.png",
+   "names": [
+    "潍坊公安"
+   ]
+  },
+  {
+   "file": "潍坊公益.png",
+   "names": [
+    "潍坊公益"
+   ]
+  },
+  {
+   "file": "潍坊农业.png",
+   "names": [
+    "潍坊农业"
+   ]
+  },
+  {
+   "file": "潍坊医美.png",
+   "names": [
+    "潍坊医美"
+   ]
+  },
+  {
+   "file": "潍坊坊子.png",
+   "names": [
+    "潍坊坊子"
+   ]
+  },
+  {
+   "file": "潍坊奎文.png",
+   "names": [
+    "潍坊奎文"
+   ]
+  },
+  {
+   "file": "潍坊女企.png",
+   "names": [
+    "潍坊女企"
+   ]
+  },
+  {
+   "file": "潍坊妇联.png",
+   "names": [
+    "潍坊妇联"
+   ]
+  },
+  {
+   "file": "潍坊安丘.png",
+   "names": [
+    "潍坊安丘"
+   ]
+  },
+  {
+   "file": "潍坊寒亭.png",
+   "names": [
+    "潍坊寒亭"
+   ]
+  },
+  {
+   "file": "潍坊寿光.png",
+   "names": [
+    "潍坊寿光"
+   ]
+  },
+  {
+   "file": "潍坊少儿.png",
+   "names": [
+    "潍坊少儿"
+   ]
+  },
+  {
+   "file": "潍坊峡山.png",
+   "names": [
+    "潍坊峡山"
+   ]
+  },
+  {
+   "file": "潍坊市场.png",
+   "names": [
+    "潍坊市场"
+   ]
+  },
+  {
+   "file": "潍坊应急.png",
+   "names": [
+    "潍坊应急"
+   ]
+  },
+  {
+   "file": "潍坊康养.png",
+   "names": [
+    "潍坊康养"
+   ]
+  },
+  {
+   "file": "潍坊房产.png",
+   "names": [
+    "潍坊房产"
+   ]
+  },
+  {
+   "file": "潍坊政协.png",
+   "names": [
+    "潍坊政协"
+   ]
+  },
+  {
+   "file": "潍坊教体.png",
+   "names": [
+    "潍坊教体"
+   ]
+  },
+  {
+   "file": "潍坊教育.png",
+   "names": [
+    "潍坊教育"
+   ]
+  },
+  {
+   "file": "潍坊文旅.png",
+   "names": [
+    "潍坊文旅"
+   ]
+  },
+  {
+   "file": "潍坊文明.png",
+   "names": [
+    "潍坊文明"
+   ]
+  },
+  {
+   "file": "潍坊文艺.png",
+   "names": [
+    "潍坊文艺"
+   ]
+  },
+  {
+   "file": "潍坊新闻.png",
+   "names": [
+    "潍坊新闻"
+   ]
+  },
+  {
+   "file": "潍坊时代.png",
+   "names": [
+    "潍坊时代"
+   ]
+  },
+  {
+   "file": "潍坊时尚.png",
+   "names": [
+    "潍坊时尚"
+   ]
+  },
+  {
+   "file": "潍坊昌乐.png",
+   "names": [
+    "潍坊昌乐"
+   ]
+  },
+  {
+   "file": "潍坊昌邑.png",
+   "names": [
+    "潍坊昌邑"
+   ]
+  },
+  {
+   "file": "潍坊机关.png",
+   "names": [
+    "潍坊机关"
+   ]
+  },
+  {
+   "file": "潍坊检察.png",
+   "names": [
+    "潍坊检察"
+   ]
+  },
+  {
+   "file": "潍坊残联.png",
+   "names": [
+    "潍坊残联"
+   ]
+  },
+  {
+   "file": "潍坊民生.png",
+   "names": [
+    "潍坊民生"
+   ]
+  },
+  {
+   "file": "潍坊汽车.png",
+   "names": [
+    "潍坊汽车"
+   ]
+  },
+  {
+   "file": "潍坊法治.png",
+   "names": [
+    "潍坊法治"
+   ]
+  },
+  {
+   "file": "潍坊滨海.png",
+   "names": [
+    "潍坊滨海"
+   ]
+  },
+  {
+   "file": "潍坊潍城.png",
+   "names": [
+    "潍坊潍城"
+   ]
+  },
+  {
+   "file": "潍坊爱家.png",
+   "names": [
+    "潍坊爱家"
+   ]
+  },
+  {
+   "file": "潍坊百姓.png",
+   "names": [
+    "潍坊百姓"
+   ]
+  },
+  {
+   "file": "潍坊直播.png",
+   "names": [
+    "潍坊直播"
+   ]
+  },
+  {
+   "file": "潍坊纵横.png",
+   "names": [
+    "潍坊纵横"
+   ]
+  },
+  {
+   "file": "潍坊经济.png",
+   "names": [
+    "潍坊经济"
+   ]
+  },
+  {
+   "file": "潍坊艺术.png",
+   "names": [
+    "潍坊艺术"
+   ]
+  },
+  {
+   "file": "潍坊诸城.png",
+   "names": [
+    "潍坊诸城"
+   ]
+  },
+  {
+   "file": "潍坊通讯.png",
+   "names": [
+    "潍坊通讯"
+   ]
+  },
+  {
+   "file": "潍坊都市.png",
+   "names": [
+    "潍坊都市"
+   ]
+  },
+  {
+   "file": "潍坊金融.png",
+   "names": [
+    "潍坊金融"
+   ]
+  },
+  {
+   "file": "潍坊青少.png",
+   "names": [
+    "潍坊青少"
+   ]
+  },
+  {
+   "file": "潍坊青州.png",
+   "names": [
+    "潍坊青州"
+   ]
+  },
+  {
+   "file": "潍坊高密.png",
+   "names": [
+    "潍坊高密"
+   ]
+  },
+  {
+   "file": "潍坊高新.png",
+   "names": [
+    "潍坊高新"
+   ]
+  },
+  {
+   "file": "潮州综合.png",
+   "names": [
+    "潮州综合"
+   ]
+  },
+  {
+   "file": "潼关综合.png",
+   "names": [
+    "潼关综合"
+   ]
+  },
+  {
+   "file": "澄城综合.png",
+   "names": [
+    "澄城综合"
+   ]
+  },
+  {
+   "file": "澳亚卫视.png",
+   "names": [
+    "澳亚卫视"
+   ]
+  },
+  {
+   "file": "澳视澳门.png",
+   "names": [
+    "澳视澳门"
+   ]
+  },
+  {
+   "file": "澳门莲花.png",
+   "names": [
+    "澳门莲花"
+   ]
+  },
+  {
+   "file": "炫动卡通.png",
+   "names": [
+    "炫动卡通"
+   ]
+  },
+  {
+   "file": "熊猫频道.png",
+   "names": [
+    "熊猫频道"
+   ]
+  },
+  {
+   "file": "爱上4K.png",
+   "names": [
+    "爱上4K"
+   ]
+  },
+  {
+   "file": "爱尔达娱乐台.png",
+   "names": [
+    "爱尔达娱乐台"
+   ]
+  },
+  {
+   "file": "爱看导视.png",
+   "names": [
+    "爱看导视"
+   ]
+  },
+  {
+   "file": "牡丹江综合.png",
+   "names": [
+    "牡丹江综合"
+   ]
+  },
+  {
+   "file": "王益综合.png",
+   "names": [
+    "王益综合"
+   ]
+  },
+  {
+   "file": "环球奇观.png",
+   "names": [
+    "环球奇观"
+   ]
+  },
+  {
+   "file": "环球旅游.png",
+   "names": [
+    "环球旅游"
+   ]
+  },
+  {
+   "file": "环球电视台.png",
+   "names": [
+    "环球电视台"
+   ]
+  },
+  {
+   "file": "珲春综合.png",
+   "names": [
+    "珲春综合"
+   ]
+  },
+  {
+   "file": "瓮安综合.png",
+   "names": [
+    "瓮安综合"
+   ]
+  },
+  {
+   "file": "甘泉综合.png",
+   "names": [
+    "甘泉综合"
+   ]
+  },
+  {
+   "file": "甘肃公共.png",
+   "names": [
+    "甘肃公共"
+   ]
+  },
+  {
+   "file": "甘肃卫视.png",
+   "names": [
+    "甘肃卫视",
+    "甘肃卫视高清"
+   ]
+  },
+  {
+   "file": "甘肃移动.png",
+   "names": [
+    "甘肃移动"
+   ]
+  },
+  {
+   "file": "生态环境.png",
+   "names": [
+    "生态环境"
+   ]
+  },
+  {
+   "file": "生活时尚.png",
+   "names": [
+    "生活时尚"
+   ]
+  },
+  {
+   "file": "生活.png",
+   "names": [
+    "生活"
+   ]
+  },
+  {
+   "file": "电竞天堂.png",
+   "names": [
+    "电竞天堂"
+   ]
+  },
+  {
+   "file": "留坝综合.png",
+   "names": [
+    "留坝综合"
+   ]
+  },
+  {
+   "file": "略阳综合.png",
+   "names": [
+    "略阳综合"
+   ]
+  },
+  {
+   "file": "白城新闻综合.png",
+   "names": [
+    "白城新闻综合"
+   ]
+  },
+  {
+   "file": "白山公共.png",
+   "names": [
+    "白山公共"
+   ]
+  },
+  {
+   "file": "白山新闻综合.png",
+   "names": [
+    "白山新闻综合"
+   ]
+  },
+  {
+   "file": "白水综合.png",
+   "names": [
+    "白水综合"
+   ]
+  },
+  {
+   "file": "白河综合.png",
+   "names": [
+    "白河综合"
+   ]
+  },
+  {
+   "file": "百事通.png",
+   "names": [
+    "百事通"
+   ]
+  },
+  {
+   "file": "百姓健康.png",
+   "names": [
+    "百姓健康"
+   ]
+  },
+  {
+   "file": "百姓生活.png",
+   "names": [
+    "百姓生活"
+   ]
+  },
+  {
+   "file": "盐城一套.png",
+   "names": [
+    "盐城一套"
+   ]
+  },
+  {
+   "file": "盐城二套.png",
+   "names": [
+    "盐城二套"
+   ]
+  },
+  {
+   "file": "盐城民生.png",
+   "names": [
+    "盐城民生"
+   ]
+  },
+  {
+   "file": "盐城综合.png",
+   "names": [
+    "盐城综合"
+   ]
+  },
+  {
+   "file": "盐都综合.png",
+   "names": [
+    "盐都综合"
+   ]
+  },
+  {
+   "file": "相声有新人.png",
+   "names": [
+    "相声有新人"
+   ]
+  },
+  {
+   "file": "眉县综合.png",
+   "names": [
+    "眉县综合"
+   ]
+  },
+  {
+   "file": "睛彩广场舞.png",
+   "names": [
+    "睛彩广场舞"
+   ]
+  },
+  {
+   "file": "睛彩竞技.png",
+   "names": [
+    "睛彩竞技"
+   ]
+  },
+  {
+   "file": "睛彩篮球.png",
+   "names": [
+    "睛彩篮球"
+   ]
+  },
+  {
+   "file": "睛彩青少.png",
+   "names": [
+    "睛彩青少"
+   ]
+  },
+  {
+   "file": "睢宁三农.png",
+   "names": [
+    "睢宁三农"
+   ]
+  },
+  {
+   "file": "睢宁生活.png",
+   "names": [
+    "睢宁生活"
+   ]
+  },
+  {
+   "file": "睢宁综合.png",
+   "names": [
+    "睢宁综合"
+   ]
+  },
+  {
+   "file": "睢宁资讯.png",
+   "names": [
+    "睢宁资讯"
+   ]
+  },
+  {
+   "file": "知否知否.png",
+   "names": [
+    "知否知否"
+   ]
+  },
+  {
+   "file": "石家庄娱乐.png",
+   "names": [
+    "石家庄娱乐"
+   ]
+  },
+  {
+   "file": "石家庄新闻综合.png",
+   "names": [
+    "石家庄新闻综合"
+   ]
+  },
+  {
+   "file": "石家庄生活.png",
+   "names": [
+    "石家庄生活"
+   ]
+  },
+  {
+   "file": "石家庄都市.png",
+   "names": [
+    "石家庄都市"
+   ]
+  },
+  {
+   "file": "石家庄音乐.png",
+   "names": [
+    "石家庄音乐"
+   ]
+  },
+  {
+   "file": "石泉综合.png",
+   "names": [
+    "石泉综合"
+   ]
+  },
+  {
+   "file": "礼泉影视.png",
+   "names": [
+    "礼泉影视"
+   ]
+  },
+  {
+   "file": "礼泉综合.png",
+   "names": [
+    "礼泉综合"
+   ]
+  },
+  {
+   "file": "神木综合.png",
+   "names": [
+    "神木综合"
+   ]
+  },
+  {
+   "file": "福州导视.png",
+   "names": [
+    "福州导视"
+   ]
+  },
+  {
+   "file": "福州少儿.png",
+   "names": [
+    "福州少儿"
+   ]
+  },
+  {
+   "file": "福州影视.png",
+   "names": [
+    "福州影视"
+   ]
+  },
+  {
+   "file": "福州新闻.png",
+   "names": [
+    "福州新闻"
+   ]
+  },
+  {
+   "file": "福州生活.png",
+   "names": [
+    "福州生活"
+   ]
+  },
+  {
+   "file": "福州电视台.png",
+   "names": [
+    "福州电视台"
+   ]
+  },
+  {
+   "file": "福建公共.png",
+   "names": [
+    "福建公共"
+   ]
+  },
+  {
+   "file": "福建少儿.png",
+   "names": [
+    "福建少儿"
+   ]
+  },
+  {
+   "file": "福建教育.png",
+   "names": [
+    "福建教育"
+   ]
+  },
+  {
+   "file": "福建文体.png",
+   "names": [
+    "福建文体"
+   ]
+  },
+  {
+   "file": "福建文旅.png",
+   "names": [
+    "福建文旅"
+   ]
+  },
+  {
+   "file": "福建新闻.png",
+   "names": [
+    "福建新闻"
+   ]
+  },
+  {
+   "file": "福建旅游.png",
+   "names": [
+    "福建旅游"
+   ]
+  },
+  {
+   "file": "福建电视剧.png",
+   "names": [
+    "福建电视剧"
+   ]
+  },
+  {
+   "file": "福建经济.png",
+   "names": [
+    "福建经济"
+   ]
+  },
+  {
+   "file": "福建综合.png",
+   "names": [
+    "福建综合",
+    "Fujian Comprehensive Channel"
+   ]
+  },
+  {
+   "file": "移动戏曲.png",
+   "names": [
+    "移动戏曲"
+   ]
+  },
+  {
+   "file": "第一财经.png",
+   "names": [
+    "第一财经"
+   ]
+  },
+  {
+   "file": "篮球.png",
+   "names": [
+    "篮球"
+   ]
+  },
+  {
+   "file": "米脂综合.png",
+   "names": [
+    "米脂综合"
+   ]
+  },
+  {
+   "file": "精品导视.png",
+   "names": [
+    "精品导视"
+   ]
+  },
+  {
+   "file": "精品萌宠.png",
+   "names": [
+    "精品萌宠"
+   ]
+  },
+  {
+   "file": "紫阳综合.png",
+   "names": [
+    "紫阳综合"
+   ]
+  },
+  {
+   "file": "纪实人文.png",
+   "names": [
+    "纪实人文"
+   ]
+  },
+  {
+   "file": "纪实科教.png",
+   "names": [
+    "纪实科教"
+   ]
+  },
+  {
+   "file": "纯享4K.png",
+   "names": [
+    "纯享4K"
+   ]
+  },
+  {
+   "file": "绥德综合.png",
+   "names": [
+    "绥德综合"
+   ]
+  },
+  {
+   "file": "置业.png",
+   "names": [
+    "置业"
+   ]
+  },
+  {
+   "file": "置业频道.png",
+   "names": [
+    "置业频道"
+   ]
+  },
+  {
+   "file": "耀州综合.png",
+   "names": [
+    "耀州综合"
+   ]
+  },
+  {
+   "file": "耀才財經臺.png",
+   "names": [
+    "耀才財經臺"
+   ]
+  },
+  {
+   "file": "耀才财经.png",
+   "names": [
+    "耀才财经"
+   ]
+  },
+  {
+   "file": "聚鲨环球精选.png",
+   "names": [
+    "聚鲨环球精选"
+   ]
+  },
+  {
+   "file": "舒兰新闻.png",
+   "names": [
+    "舒兰新闻"
+   ]
+  },
+  {
+   "file": "芒果TV.png",
+   "names": [
+    "芒果TV"
+   ]
+  },
+  {
+   "file": "芒果互娱.png",
+   "names": [
+    "芒果互娱"
+   ]
+  },
+  {
+   "file": "苏州4K.png",
+   "names": [
+    "苏州4K"
+   ]
+  },
+  {
+   "file": "荆门教育.png",
+   "names": [
+    "荆门教育"
+   ]
+  },
+  {
+   "file": "荆门新闻.png",
+   "names": [
+    "荆门新闻"
+   ]
+  },
+  {
+   "file": "莆田一套.png",
+   "names": [
+    "莆田一套"
+   ]
+  },
+  {
+   "file": "莆田新闻.png",
+   "names": [
+    "莆田新闻"
+   ]
+  },
+  {
+   "file": "莆田电视台.png",
+   "names": [
+    "莆田电视台"
+   ]
+  },
+  {
+   "file": "莆田综合.png",
+   "names": [
+    "莆田综合"
+   ]
+  },
+  {
+   "file": "莲花卫视.png",
+   "names": [
+    "莲花卫视"
+   ]
+  },
+  {
+   "file": "萌宠tv.png",
+   "names": [
+    "萌宠tv"
+   ]
+  },
+  {
+   "file": "营山综合.png",
+   "names": [
+    "营山综合"
+   ]
+  },
+  {
+   "file": "萧山新闻综合.png",
+   "names": [
+    "萧山新闻综合"
+   ]
+  },
+  {
+   "file": "蒲城综合.png",
+   "names": [
+    "蒲城综合"
+   ]
+  },
+  {
+   "file": "蓝田综合.png",
+   "names": [
+    "蓝田综合"
+   ]
+  },
+  {
+   "file": "西乡综合.png",
+   "names": [
+    "西乡综合"
+   ]
+  },
+  {
+   "file": "西双版纳公共.png",
+   "names": [
+    "西双版纳公共"
+   ]
+  },
+  {
+   "file": "西双版纳综合.png",
+   "names": [
+    "西双版纳综合"
+   ]
+  },
+  {
+   "file": "西安丝路.png",
+   "names": [
+    "西安丝路"
+   ]
+  },
+  {
+   "file": "西安丝路频道.png",
+   "names": [
+    "西安丝路频道"
+   ]
+  },
+  {
+   "file": "西安乐购购物.png",
+   "names": [
+    "西安乐购购物"
+   ]
+  },
+  {
+   "file": "西安商务.png",
+   "names": [
+    "西安商务"
+   ]
+  },
+  {
+   "file": "西安商务资讯.png",
+   "names": [
+    "西安商务资讯"
+   ]
+  },
+  {
+   "file": "西安商务资迅.png",
+   "names": [
+    "西安商务资迅"
+   ]
+  },
+  {
+   "file": "西安影视.png",
+   "names": [
+    "西安影视"
+   ]
+  },
+  {
+   "file": "西安影视频道.png",
+   "names": [
+    "西安影视频道"
+   ]
+  },
+  {
+   "file": "西安戏剧.png",
+   "names": [
+    "西安戏剧"
+   ]
+  },
+  {
+   "file": "西安教育.png",
+   "names": [
+    "西安教育"
+   ]
+  },
+  {
+   "file": "西安新闻.png",
+   "names": [
+    "西安新闻"
+   ]
+  },
+  {
+   "file": "西安.png",
+   "names": [
+    "西安"
+   ]
+  },
+  {
+   "file": "西安新闻综合.png",
+   "names": [
+    "西安新闻综合"
+   ]
+  },
+  {
+   "file": "西安综合.png",
+   "names": [
+    "西安综合"
+   ]
+  },
+  {
+   "file": "西安都市.png",
+   "names": [
+    "西安都市"
+   ]
+  },
+  {
+   "file": "西安都市频道.png",
+   "names": [
+    "西安都市频道"
+   ]
+  },
+  {
+   "file": "西藏卫视.png",
+   "names": [
+    "西藏卫视",
+    "Xizang TV",
+    "Xizang TV Tibetan"
+   ]
+  },
+  {
+   "file": "西藏藏语卫视.png",
+   "names": [
+    "西藏藏语卫视"
+   ]
+  },
+  {
+   "file": "视听海南.png",
+   "names": [
+    "视听海南"
+   ]
+  },
+  {
+   "file": "视纳华仁纪实.png",
+   "names": [
+    "视纳华仁纪实"
+   ]
+  },
+  {
+   "file": "视纳华仁纪实频道.png",
+   "names": [
+    "视纳华仁纪实频道"
+   ]
+  },
+  {
+   "file": "证券服务.png",
+   "names": [
+    "证券服务"
+   ]
+  },
+  {
+   "file": "财富天下.png",
+   "names": [
+    "财富天下"
+   ]
+  },
+  {
+   "file": "贵州公共.png",
+   "names": [
+    "贵州公共"
+   ]
+  },
+  {
+   "file": "贵州卫视.png",
+   "names": [
+    "贵州卫视",
+    "贵州卫视高清"
+   ]
+  },
+  {
+   "file": "贵州卫视-3.png",
+   "names": [
+    "贵州卫视-3"
+   ]
+  },
+  {
+   "file": "贵州大众生活.png",
+   "names": [
+    "贵州大众生活"
+   ]
+  },
+  {
+   "file": "贵州影视文艺.png",
+   "names": [
+    "贵州影视文艺"
+   ]
+  },
+  {
+   "file": "贵州生态乡村.png",
+   "names": [
+    "贵州生态乡村"
+   ]
+  },
+  {
+   "file": "贵州科教健康.png",
+   "names": [
+    "贵州科教健康"
+   ]
+  },
+  {
+   "file": "贵州移动.png",
+   "names": [
+    "贵州移动"
+   ]
+  },
+  {
+   "file": "贵州经济.png",
+   "names": [
+    "贵州经济"
+   ]
+  },
+  {
+   "file": "贵广新媒体.png",
+   "names": [
+    "贵广新媒体"
+   ]
+  },
+  {
+   "file": "贵阳新闻综合.png",
+   "names": [
+    "贵阳新闻综合"
+   ]
+  },
+  {
+   "file": "贵阳法制.png",
+   "names": [
+    "贵阳法制"
+   ]
+  },
+  {
+   "file": "贵阳经济生活.png",
+   "names": [
+    "贵阳经济生活"
+   ]
+  },
+  {
+   "file": "贾汪新闻.png",
+   "names": [
+    "贾汪新闻"
+   ]
+  },
+  {
+   "file": "贾汪旅游.png",
+   "names": [
+    "贾汪旅游"
+   ]
+  },
+  {
+   "file": "赣州一套.png",
+   "names": [
+    "赣州一套"
+   ]
+  },
+  {
+   "file": "赣州公共.png",
+   "names": [
+    "赣州公共"
+   ]
+  },
+  {
+   "file": "赣州教育.png",
+   "names": [
+    "赣州教育"
+   ]
+  },
+  {
+   "file": "赣榆综合.png",
+   "names": [
+    "赣榆综合"
+   ]
+  },
+  {
+   "file": "赤峰影视娱乐.png",
+   "names": [
+    "赤峰影视娱乐"
+   ]
+  },
+  {
+   "file": "赤峰新闻综合.png",
+   "names": [
+    "赤峰新闻综合",
+    "Chifeng Comprehensive News Channel",
+    "Chifeng Comprehensive News Chanel"
+   ]
+  },
+  {
+   "file": "赤峰经济服务.png",
+   "names": [
+    "赤峰经济服务"
+   ]
+  },
+  {
+   "file": "足球频道.png",
+   "names": [
+    "足球频道"
+   ]
+  },
+  {
+   "file": "辽宁公共.png",
+   "names": [
+    "辽宁公共"
+   ]
+  },
+  {
+   "file": "辽宁北方.png",
+   "names": [
+    "辽宁北方"
+   ]
+  },
+  {
+   "file": "辽宁卫视.png",
+   "names": [
+    "辽宁卫视",
+    "辽宁卫视高清"
+   ]
+  },
+  {
+   "file": "辽宁影视.png",
+   "names": [
+    "辽宁影视"
+   ]
+  },
+  {
+   "file": "辽宁生活.png",
+   "names": [
+    "辽宁生活"
+   ]
+  },
+  {
+   "file": "辽宁都市.png",
+   "names": [
+    "辽宁都市"
+   ]
+  },
+  {
+   "file": "辽宁青少.png",
+   "names": [
+    "辽宁青少"
+   ]
+  },
+  {
+   "file": "辽源新闻综合.png",
+   "names": [
+    "辽源新闻综合"
+   ]
+  },
+  {
+   "file": "达拉特旗综合.png",
+   "names": [
+    "达拉特旗综合"
+   ]
+  },
+  {
+   "file": "这就是贵州.png",
+   "names": [
+    "这就是贵州"
+   ]
+  },
+  {
+   "file": "连云港新闻综合.png",
+   "names": [
+    "连云港新闻综合"
+   ]
+  },
+  {
+   "file": "连云港综合.png",
+   "names": [
+    "连云港综合"
+   ]
+  },
+  {
+   "file": "通化综合.png",
+   "names": [
+    "通化综合",
+    "Tonghua TV"
+   ]
+  },
+  {
+   "file": "通榆综合.png",
+   "names": [
+    "通榆综合"
+   ]
+  },
+  {
+   "file": "通辽城市服务.png",
+   "names": [
+    "通辽城市服务"
+   ]
+  },
+  {
+   "file": "通辽新闻综合.png",
+   "names": [
+    "通辽新闻综合"
+   ]
+  },
+  {
+   "file": "通辽蒙语频道.png",
+   "names": [
+    "通辽蒙语频道"
+   ]
+  },
+  {
+   "file": "遵义公共.png",
+   "names": [
+    "遵义公共"
+   ]
+  },
+  {
+   "file": "遵义综合.png",
+   "names": [
+    "遵义综合"
+   ]
+  },
+  {
+   "file": "遵义都市.png",
+   "names": [
+    "遵义都市"
+   ]
+  },
+  {
+   "file": "邳州综合.png",
+   "names": [
+    "邳州综合"
+   ]
+  },
+  {
+   "file": "都市剧场.png",
+   "names": [
+    "都市剧场"
+   ]
+  },
+  {
+   "file": "都市.png",
+   "names": [
+    "都市"
+   ]
+  },
+  {
+   "file": "鄂尔多斯.png",
+   "names": [
+    "鄂尔多斯"
+   ]
+  },
+  {
+   "file": "鄂尔多斯新闻综合.png",
+   "names": [
+    "鄂尔多斯新闻综合"
+   ]
+  },
+  {
+   "file": "鄂尔多斯经济服务.png",
+   "names": [
+    "鄂尔多斯经济服务"
+   ]
+  },
+  {
+   "file": "鄂尔多斯蒙语频道.png",
+   "names": [
+    "鄂尔多斯蒙语频道"
+   ]
+  },
+  {
+   "file": "鄠邑综合.png",
+   "names": [
+    "鄠邑综合"
+   ]
+  },
+  {
+   "file": "采昌影剧.png",
+   "names": [
+    "采昌影剧"
+   ]
+  },
+  {
+   "file": "重广融媒.png",
+   "names": [
+    "重广融媒"
+   ]
+  },
+  {
+   "file": "重庆卫视.png",
+   "names": [
+    "重庆卫视",
+    "重庆卫视高清"
+   ]
+  },
+  {
+   "file": "重庆.png",
+   "names": [
+    "重庆"
+   ]
+  },
+  {
+   "file": "重庆少儿.png",
+   "names": [
+    "重庆少儿"
+   ]
+  },
+  {
+   "file": "重庆影视.png",
+   "names": [
+    "重庆影视"
+   ]
+  },
+  {
+   "file": "重庆文体娱乐.png",
+   "names": [
+    "重庆文体娱乐"
+   ]
+  },
+  {
+   "file": "重庆新农村.png",
+   "names": [
+    "重庆新农村"
+   ]
+  },
+  {
+   "file": "重庆新闻.png",
+   "names": [
+    "重庆新闻"
+   ]
+  },
+  {
+   "file": "重庆时尚生活.png",
+   "names": [
+    "重庆时尚生活"
+   ]
+  },
+  {
+   "file": "重庆汽摩.png",
+   "names": [
+    "重庆汽摩"
+   ]
+  },
+  {
+   "file": "重庆社会与法.png",
+   "names": [
+    "重庆社会与法"
+   ]
+  },
+  {
+   "file": "重庆科教.png",
+   "names": [
+    "重庆科教"
+   ]
+  },
+  {
+   "file": "重庆移动.png",
+   "names": [
+    "重庆移动"
+   ]
+  },
+  {
+   "file": "重温经典.png",
+   "names": [
+    "重温经典"
+   ]
+  },
+  {
+   "file": "金湖综合.png",
+   "names": [
+    "金湖综合"
+   ]
+  },
+  {
+   "file": "金砖中文.png",
+   "names": [
+    "金砖中文"
+   ]
+  },
+  {
+   "file": "金砖电视.png",
+   "names": [
+    "金砖电视"
+   ]
+  },
+  {
+   "file": "金砖英文.png",
+   "names": [
+    "金砖英文"
+   ]
+  },
+  {
+   "file": "金色学堂.png",
+   "names": [
+    "金色学堂"
+   ]
+  },
+  {
+   "file": "金色.png",
+   "names": [
+    "金色"
+   ]
+  },
+  {
+   "file": "金鹰卡通.png",
+   "names": [
+    "金鹰卡通",
+    "Golden Eagle Cartoon"
+   ]
+  },
+  {
+   "file": "金鹰纪实.png",
+   "names": [
+    "金鹰纪实"
+   ]
+  },
+  {
+   "file": "钱江都市.png",
+   "names": [
+    "钱江都市"
+   ]
+  },
+  {
+   "file": "铁路电视.png",
+   "names": [
+    "铁路电视"
+   ]
+  },
+  {
+   "file": "铜仁城市生活.png",
+   "names": [
+    "铜仁城市生活"
+   ]
+  },
+  {
+   "file": "铜仁新闻综合.png",
+   "names": [
+    "铜仁新闻综合"
+   ]
+  },
+  {
+   "file": "铜山一套.png",
+   "names": [
+    "铜山一套"
+   ]
+  },
+  {
+   "file": "铜山三套.png",
+   "names": [
+    "铜山三套"
+   ]
+  },
+  {
+   "file": "铜川公共.png",
+   "names": [
+    "铜川公共"
+   ]
+  },
+  {
+   "file": "铜川综合.png",
+   "names": [
+    "铜川综合"
+   ]
+  },
+  {
+   "file": "镇坪综合.png",
+   "names": [
+    "镇坪综合"
+   ]
+  },
+  {
+   "file": "镇安综合.png",
+   "names": [
+    "镇安综合"
+   ]
+  },
+  {
+   "file": "镇巴综合.png",
+   "names": [
+    "镇巴综合"
+   ]
+  },
+  {
+   "file": "镇江公共.png",
+   "names": [
+    "镇江公共"
+   ]
+  },
+  {
+   "file": "镇江新闻.png",
+   "names": [
+    "镇江新闻"
+   ]
+  },
+  {
+   "file": "镇江社会民生.png",
+   "names": [
+    "镇江社会民生"
+   ]
+  },
+  {
+   "file": "镇江综合.png",
+   "names": [
+    "镇江综合"
+   ]
+  },
+  {
+   "file": "镇江财经生活.png",
+   "names": [
+    "镇江财经生活"
+   ]
+  },
+  {
+   "file": "镇赉综合.png",
+   "names": [
+    "镇赉综合"
+   ]
+  },
+  {
+   "file": "长乐.png",
+   "names": [
+    "长乐"
+   ]
+  },
+  {
+   "file": "长安综合.png",
+   "names": [
+    "长安综合"
+   ]
+  },
+  {
+   "file": "长春综合.png",
+   "names": [
+    "长春综合"
+   ]
+  },
+  {
+   "file": "长春.png",
+   "names": [
+    "长春"
+   ]
+  },
+  {
+   "file": "长武综合.png",
+   "names": [
+    "长武综合"
+   ]
+  },
+  {
+   "file": "长沙.png",
+   "names": [
+    "长沙"
+   ]
+  },
+  {
+   "file": "长沙女性.png",
+   "names": [
+    "长沙女性"
+   ]
+  },
+  {
+   "file": "长沙政法.png",
+   "names": [
+    "长沙政法"
+   ]
+  },
+  {
+   "file": "长沙新闻.png",
+   "names": [
+    "长沙新闻"
+   ]
+  },
+  {
+   "file": "陇县综合.png",
+   "names": [
+    "陇县综合"
+   ]
+  },
+  {
+   "file": "陈仓综合.png",
+   "names": [
+    "陈仓综合"
+   ]
+  },
+  {
+   "file": "陕西一套.png",
+   "names": [
+    "陕西一套"
+   ]
+  },
+  {
+   "file": "陕西七套.png",
+   "names": [
+    "陕西七套"
+   ]
+  },
+  {
+   "file": "陕西二套.png",
+   "names": [
+    "陕西二套"
+   ]
+  },
+  {
+   "file": "陕西五套.png",
+   "names": [
+    "陕西五套"
+   ]
+  },
+  {
+   "file": "陕西体育.png",
+   "names": [
+    "陕西体育"
+   ]
+  },
+  {
+   "file": "陕西体育休闲.png",
+   "names": [
+    "陕西体育休闲"
+   ]
+  },
+  {
+   "file": "陕西公共.png",
+   "names": [
+    "陕西公共"
+   ]
+  },
+  {
+   "file": "陕西六套.png",
+   "names": [
+    "陕西六套"
+   ]
+  },
+  {
+   "file": "陕西农林卫视.png",
+   "names": [
+    "陕西农林卫视"
+   ]
+  },
+  {
+   "file": "陕西卫视.png",
+   "names": [
+    "陕西卫视",
+    "陕西卫视高清"
+   ]
+  },
+  {
+   "file": "陕西四套.png",
+   "names": [
+    "陕西四套"
+   ]
+  },
+  {
+   "file": "陕西影视.png",
+   "names": [
+    "陕西影视"
+   ]
+  },
+  {
+   "file": "陕西新闻.png",
+   "names": [
+    "陕西新闻"
+   ]
+  },
+  {
+   "file": "陕西新闻资讯.png",
+   "names": [
+    "陕西新闻资讯"
+   ]
+  },
+  {
+   "file": "陕西生活.png",
+   "names": [
+    "陕西生活"
+   ]
+  },
+  {
+   "file": "陕西西部电影.png",
+   "names": [
+    "陕西西部电影"
+   ]
+  },
+  {
+   "file": "陕西购物.png",
+   "names": [
+    "陕西购物"
+   ]
+  },
+  {
+   "file": "陕西都市.png",
+   "names": [
+    "陕西都市"
+   ]
+  },
+  {
+   "file": "陕西都市青春.png",
+   "names": [
+    "陕西都市青春"
+   ]
+  },
+  {
+   "file": "随州综合.png",
+   "names": [
+    "随州综合"
+   ]
+  },
+  {
+   "file": "随州农村.png",
+   "names": [
+    "随州农村"
+   ]
+  },
+  {
+   "file": "集安综合.png",
+   "names": [
+    "集安综合"
+   ]
+  },
+  {
+   "file": "雷山综合.png",
+   "names": [
+    "雷山综合"
+   ]
+  },
+  {
+   "file": "青海卫视.png",
+   "names": [
+    "青海卫视",
+    "青海卫视高清"
+   ]
+  },
+  {
+   "file": "青海.png",
+   "names": [
+    "青海"
+   ]
+  },
+  {
+   "file": "青海经视.png",
+   "names": [
+    "青海经视"
+   ]
+  },
+  {
+   "file": "青海都市.png",
+   "names": [
+    "青海都市"
+   ]
+  },
+  {
+   "file": "靖天卡通.png",
+   "names": [
+    "靖天卡通"
+   ]
+  },
+  {
+   "file": "靖天国际.png",
+   "names": [
+    "靖天国际"
+   ]
+  },
+  {
+   "file": "靖天戏剧.png",
+   "names": [
+    "靖天戏剧"
+   ]
+  },
+  {
+   "file": "靖天日本.png",
+   "names": [
+    "靖天日本"
+   ]
+  },
+  {
+   "file": "靖天日本台.png",
+   "names": [
+    "靖天日本台"
+   ]
+  },
+  {
+   "file": "靖天映画.png",
+   "names": [
+    "靖天映画"
+   ]
+  },
+  {
+   "file": "靖天欢乐.png",
+   "names": [
+    "靖天欢乐"
+   ]
+  },
+  {
+   "file": "靖天电影.png",
+   "names": [
+    "靖天电影"
+   ]
+  },
+  {
+   "file": "靖天电影台.png",
+   "names": [
+    "靖天电影台"
+   ]
+  },
+  {
+   "file": "靖天综合.png",
+   "names": [
+    "靖天综合"
+   ]
+  },
+  {
+   "file": "靖天育乐.png",
+   "names": [
+    "靖天育乐"
+   ]
+  },
+  {
+   "file": "靖天资讯.png",
+   "names": [
+    "靖天资讯"
+   ]
+  },
+  {
+   "file": "靖宇综合.png",
+   "names": [
+    "靖宇综合"
+   ]
+  },
+  {
+   "file": "靖江新闻.png",
+   "names": [
+    "靖江新闻"
+   ]
+  },
+  {
+   "file": "靖洋卡通.png",
+   "names": [
+    "靖洋卡通"
+   ]
+  },
+  {
+   "file": "靖洋戏剧.png",
+   "names": [
+    "靖洋戏剧"
+   ]
+  },
+  {
+   "file": "靖边综合.png",
+   "names": [
+    "靖边综合"
+   ]
+  },
+  {
+   "file": "韩城综合.png",
+   "names": [
+    "韩城综合"
+   ]
+  },
+  {
+   "file": "风尚生活.png",
+   "names": [
+    "风尚生活"
+   ]
+  },
+  {
+   "file": "风尚购物.png",
+   "names": [
+    "风尚购物"
+   ]
+  },
+  {
+   "file": "香港国际财经台.png",
+   "names": [
+    "香港国际财经台"
+   ]
+  },
+  {
+   "file": "高清大片.png",
+   "names": [
+    "高清大片"
+   ]
+  },
+  {
+   "file": "高清电影.png",
+   "names": [
+    "高清电影"
+   ]
+  },
+  {
+   "file": "高陵综合.png",
+   "names": [
+    "高陵综合"
+   ]
+  },
+  {
+   "file": "魅力潇湘.png",
+   "names": [
+    "魅力潇湘"
+   ]
+  },
+  {
+   "file": "魅力足球.png",
+   "names": [
+    "魅力足球"
+   ]
+  },
+  {
+   "file": "鸡西生活.png",
+   "names": [
+    "鸡西生活"
+   ]
+  },
+  {
+   "file": "鸡西综合.png",
+   "names": [
+    "鸡西综合"
+   ]
+  },
+  {
+   "file": "鹤岗综合.png",
+   "names": [
+    "鹤岗综合"
+   ]
+  },
+  {
+   "file": "麟游综合.png",
+   "names": [
+    "麟游综合"
+   ]
+  },
+  {
+   "file": "黄陵综合.png",
+   "names": [
+    "黄陵综合"
+   ]
+  },
+  {
+   "file": "黄龙综合.png",
+   "names": [
+    "黄龙综合"
+   ]
+  },
+  {
+   "file": "黑莓动画.png",
+   "names": [
+    "黑莓动画"
+   ]
+  },
+  {
+   "file": "黑莓电影.png",
+   "names": [
+    "黑莓电影"
+   ]
+  },
+  {
+   "file": "黑龙江公共农业.png",
+   "names": [
+    "黑龙江公共农业"
+   ]
+  },
+  {
+   "file": "黑龙江农业科教.png",
+   "names": [
+    "黑龙江农业科教"
+   ]
+  },
+  {
+   "file": "黑龙江卫视.png",
+   "names": [
+    "黑龙江卫视",
+    "黑龙江卫视高清"
+   ]
+  },
+  {
+   "file": "黑龙江少儿.png",
+   "names": [
+    "黑龙江少儿"
+   ]
+  },
+  {
+   "file": "黑龙江影视.png",
+   "names": [
+    "黑龙江影视"
+   ]
+  },
+  {
+   "file": "黑龙江文体.png",
+   "names": [
+    "黑龙江文体"
+   ]
+  },
+  {
+   "file": "黑龙江新闻法治.png",
+   "names": [
+    "黑龙江新闻法治"
+   ]
+  },
+  {
+   "file": "黑龙江都市.png",
+   "names": [
+    "黑龙江都市"
+   ]
+  },
+  {
+   "file": "黔东南综合.png",
+   "names": [
+    "黔东南综合"
+   ]
+  },
+  {
+   "file": "黔南公共.png",
+   "names": [
+    "黔南公共"
+   ]
+  },
+  {
+   "file": "黔南新闻综合.png",
+   "names": [
+    "黔南新闻综合"
+   ]
+  },
+  {
+   "file": "黔西南公共.png",
+   "names": [
+    "黔西南公共"
+   ]
+  },
+  {
+   "file": "黔西南综合.png",
+   "names": [
+    "黔西南综合"
+   ]
+  },
+  {
+   "file": "黔西综合.png",
+   "names": [
+    "黔西综合"
+   ]
+  },
+  {
+   "file": "齐齐哈尔经济.png",
+   "names": [
+    "齐齐哈尔经济"
+   ]
+  },
+  {
+   "file": "齐齐哈尔综合.png",
+   "names": [
+    "齐齐哈尔综合"
+   ]
+  },
+  {
+   "file": "龙井综合.png",
+   "names": [
+    "龙井综合"
+   ]
+  },
+  {
+   "file": "龙华偶像.png",
+   "names": [
+    "龙华偶像"
+   ]
+  },
+  {
+   "file": "龙华影剧.png",
+   "names": [
+    "龙华影剧"
+   ]
+  },
+  {
+   "file": "龙华戏剧.png",
+   "names": [
+    "龙华戏剧"
+   ]
+  },
+  {
+   "file": "龙华日韩.png",
+   "names": [
+    "龙华日韩"
+   ]
+  },
+  {
+   "file": "龙华日韩台.png",
+   "names": [
+    "龙华日韩台"
+   ]
+  },
+  {
+   "file": "龙华洋片.png",
+   "names": [
+    "龙华洋片"
+   ]
+  },
+  {
+   "file": "龙华电影.png",
+   "names": [
+    "龙华电影"
+   ]
+  },
+  {
+   "file": "龙华经典.png",
+   "names": [
+    "龙华经典"
+   ]
+  },
+  {
+   "file": "龙岩公共.png",
+   "names": [
+    "龙岩公共"
+   ]
+  },
+  {
+   "file": "龙岩电视台.png",
+   "names": [
+    "龙岩电视台"
+   ]
+  },
+  {
+   "file": "龙岩综合.png",
+   "names": [
+    "龙岩综合"
    ]
   }
  ]

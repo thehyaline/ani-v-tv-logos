@@ -1,0 +1,1174 @@
+{
+ "name": "ani-v-tv-logos",
+ "version": 1,
+ "updated": "2026-10-04",
+ "logoBase": "https://raw.githubusercontent.com/thehyaline/ani-v-tv-logos/main/logos/",
+ "entries": [
+  {
+   "file": "ABC_NEWS.png",
+   "names": [
+    "ABC NEWS",
+    "ABCNEWS"
+   ]
+  },
+  {
+   "file": "AMC_EAST.png",
+   "names": [
+    "AMC EAST",
+    "AMCEAST"
+   ]
+  },
+  {
+   "file": "Arirang_Korea.png",
+   "names": [
+    "Arirang Korea",
+    "ArirangKorea",
+    "Arirang TV",
+    "아리랑TV",
+    "阿里郎电视台"
+   ]
+  },
+  {
+   "file": "BBC_TWO.png",
+   "names": [
+    "BBC TWO",
+    "BBCTWO"
+   ]
+  },
+  {
+   "file": "BSアニマックス_ANIMAX.png",
+   "names": [
+    "BSアニマックス ANIMAX",
+    "BSアニマックスANIMAX",
+    "BSアニマックス",
+    "アニマックス",
+    "ANIMAX"
+   ]
+  },
+  {
+   "file": "BSテレ東.png",
+   "names": [
+    "BSテレ東",
+    "BSテレビ東京",
+    "BS TV TOKYO",
+    "BS东京"
+   ]
+  },
+  {
+   "file": "Bloomberg_Television.png",
+   "names": [
+    "Bloomberg Television",
+    "BloombergTelevision"
+   ]
+  },
+  {
+   "file": "CCTV-世界地理.png",
+   "names": [
+    "CCTV-世界地理",
+    "世界地理",
+    "CCTV世界地理",
+    "央视世界地理"
+   ]
+  },
+  {
+   "file": "CCTV-兵器科技.png",
+   "names": [
+    "CCTV-兵器科技",
+    "兵器科技",
+    "CCTV兵器科技",
+    "央视兵器科技"
+   ]
+  },
+  {
+   "file": "CCTV-卫生健康.png",
+   "names": [
+    "CCTV-卫生健康",
+    "卫生健康",
+    "CCTV卫生健康",
+    "央视卫生健康"
+   ]
+  },
+  {
+   "file": "CCTV-发现之旅.png",
+   "names": [
+    "CCTV-发现之旅",
+    "发现之旅",
+    "CCTV发现之旅",
+    "央视发现之旅"
+   ]
+  },
+  {
+   "file": "CCTV-央视台球.png",
+   "names": [
+    "CCTV-央视台球",
+    "央视台球",
+    "CCTV央视台球",
+    " CCTV台球"
+   ]
+  },
+  {
+   "file": "CCTV-央视文化精品.png",
+   "names": [
+    "CCTV-央视文化精品",
+    "央视文化精品",
+    "CCTV央视文化精品",
+    "文化精品"
+   ]
+  },
+  {
+   "file": "CCTV-女性时尚.png",
+   "names": [
+    "CCTV-女性时尚",
+    "女性时尚",
+    "CCTV女性时尚",
+    "央视女性时尚"
+   ]
+  },
+  {
+   "file": "CCTV-怀旧剧场.png",
+   "names": [
+    "CCTV-怀旧剧场",
+    "怀旧剧场",
+    "CCTV怀旧剧场",
+    "央视怀旧剧场"
+   ]
+  },
+  {
+   "file": "CCTV-新科动漫.png",
+   "names": [
+    "CCTV-新科动漫",
+    "新科动漫",
+    "CCTV新科动漫",
+    "央视新科动漫"
+   ]
+  },
+  {
+   "file": "CCTV-电视指南.png",
+   "names": [
+    "CCTV-电视指南",
+    "电视指南",
+    "CCTV电视指南",
+    "央视电视指南"
+   ]
+  },
+  {
+   "file": "CCTV-第一剧场.png",
+   "names": [
+    "CCTV-第一剧场",
+    "第一剧场",
+    "CCTV第一剧场",
+    "央视第一剧场"
+   ]
+  },
+  {
+   "file": "CCTV-老故事.png",
+   "names": [
+    "CCTV-老故事",
+    "老故事",
+    "CCTV老故事",
+    "央视老故事"
+   ]
+  },
+  {
+   "file": "CCTV-风云剧场.png",
+   "names": [
+    "CCTV-风云剧场",
+    "风云剧场",
+    "CCTV风云剧场",
+    "央视风云剧场"
+   ]
+  },
+  {
+   "file": "CCTV-风云足球.png",
+   "names": [
+    "CCTV-风云足球",
+    "风云足球",
+    "CCTV风云足球",
+    "央视风云足球"
+   ]
+  },
+  {
+   "file": "CCTV-风云音乐.png",
+   "names": [
+    "CCTV-风云音乐",
+    "风云音乐",
+    "CCTV风云音乐",
+    "央视风云音乐"
+   ]
+  },
+  {
+   "file": "CCTV-高尔夫网球.png",
+   "names": [
+    "CCTV-高尔夫网球",
+    "高尔夫网球",
+    "CCTV高尔夫网球",
+    "央视高尔夫网球"
+   ]
+  },
+  {
+   "file": "CCTV1.png",
+   "names": [
+    "CCTV1",
+    "综合频道",
+    "央视一套",
+    "央视1台",
+    "CCTV-1综合",
+    "CCTV1综合"
+   ]
+  },
+  {
+   "file": "CCTV10.png",
+   "names": [
+    "CCTV10",
+    "科教频道",
+    "央视十套",
+    "央视10台",
+    "CCTV-10科教"
+   ]
+  },
+  {
+   "file": "CCTV11.png",
+   "names": [
+    "CCTV11",
+    "戏曲频道",
+    "央视十一套",
+    "央视11台"
+   ]
+  },
+  {
+   "file": "CCTV12.png",
+   "names": [
+    "CCTV12",
+    "社会与法频道",
+    "央视十二套",
+    "央视12台",
+    "CCTV-12社会与法"
+   ]
+  },
+  {
+   "file": "CCTV13.png",
+   "names": [
+    "CCTV13",
+    "新闻频道",
+    "央视新闻频道",
+    "央视十三套",
+    "央视13台"
+   ]
+  },
+  {
+   "file": "CCTV14.png",
+   "names": [
+    "CCTV14",
+    "少儿频道",
+    "央视十四套",
+    "央视14台"
+   ]
+  },
+  {
+   "file": "CCTV15.png",
+   "names": [
+    "CCTV15",
+    "音乐频道",
+    "央视十五套",
+    "央视15台"
+   ]
+  },
+  {
+   "file": "CCTV16.png",
+   "names": [
+    "CCTV16",
+    "奥林匹克频道",
+    "央视十六套",
+    "央视16台",
+    "CCTV-16奥林匹克"
+   ]
+  },
+  {
+   "file": "CCTV17.png",
+   "names": [
+    "CCTV17",
+    "农业农村频道",
+    "央视十七套",
+    "央视17台",
+    "CCTV-17农业农村"
+   ]
+  },
+  {
+   "file": "CCTV2.png",
+   "names": [
+    "CCTV2",
+    "财经频道",
+    "央视二套",
+    "央视2台",
+    "CCTV-2财经",
+    "CCTV2财经"
+   ]
+  },
+  {
+   "file": "CCTV3.png",
+   "names": [
+    "CCTV3",
+    "综艺频道",
+    "央视三套",
+    "央视3台",
+    "CCTV-3综艺"
+   ]
+  },
+  {
+   "file": "CCTV4-欧洲.png",
+   "names": [
+    "CCTV4-欧洲",
+    "CCTV-4EUO",
+    "CCTV4EUO",
+    "中文国际欧洲",
+    "CCTV4欧洲"
+   ]
+  },
+  {
+   "file": "CCTV4-美洲.png",
+   "names": [
+    "CCTV4-美洲",
+    "CCTV-4AME",
+    "CCTV4AME",
+    "中文国际美洲",
+    "CCTV4美洲"
+   ]
+  },
+  {
+   "file": "CCTV4.png",
+   "names": [
+    "CCTV4",
+    "中文国际频道",
+    "央视四套",
+    "央视4台",
+    "CCTV-4中文国际"
+   ]
+  },
+  {
+   "file": "CCTV4K.png",
+   "names": [
+    "CCTV4K",
+    "CCTV-4K",
+    "央视4K",
+    "CCTV4K超高清"
+   ]
+  },
+  {
+   "file": "CCTV5+.png",
+   "names": [
+    "CCTV5+",
+    "CCTV-5+",
+    "体育赛事频道",
+    "央视5+",
+    "CCTV5plus"
+   ]
+  },
+  {
+   "file": "CCTV5.png",
+   "names": [
+    "CCTV5",
+    "体育频道",
+    "央视五套",
+    "央视5台",
+    "CCTV-5体育"
+   ]
+  },
+  {
+   "file": "CCTV6.png",
+   "names": [
+    "CCTV6",
+    "电影频道",
+    "央视六套",
+    "央视6台",
+    "CCTV-6电影"
+   ]
+  },
+  {
+   "file": "CCTV7.png",
+   "names": [
+    "CCTV7",
+    "国防军事频道",
+    "央视七套",
+    "央视7台",
+    "CCTV-7国防军事"
+   ]
+  },
+  {
+   "file": "CCTV8.png",
+   "names": [
+    "CCTV8",
+    "电视剧频道",
+    "央视八套",
+    "央视8台",
+    "CCTV-8电视剧"
+   ]
+  },
+  {
+   "file": "CCTV8K.png",
+   "names": [
+    "CCTV8K",
+    "CCTV-8K",
+    "央视8K",
+    "CCTV8K超高清"
+   ]
+  },
+  {
+   "file": "CCTV9.png",
+   "names": [
+    "CCTV9",
+    "纪录频道",
+    "央视九套",
+    "央视9台",
+    "CCTV-9纪录"
+   ]
+  },
+  {
+   "file": "CGTN.png",
+   "names": [
+    "CGTN"
+   ]
+  },
+  {
+   "file": "CHC_动作电影.png",
+   "names": [
+    "CHC 动作电影",
+    "CHC动作电影"
+   ]
+  },
+  {
+   "file": "CHC_家庭影院.png",
+   "names": [
+    "CHC 家庭影院",
+    "CHC家庭影院"
+   ]
+  },
+  {
+   "file": "CHC_高清电影.png",
+   "names": [
+    "CHC 高清电影",
+    "CHC高清电影"
+   ]
+  },
+  {
+   "file": "CMT_MUSIC.png",
+   "names": [
+    "CMT MUSIC",
+    "CMTMUSIC"
+   ]
+  },
+  {
+   "file": "CNA.png",
+   "names": [
+    "CNA"
+   ]
+  },
+  {
+   "file": "CNBC.png",
+   "names": [
+    "CNBC"
+   ]
+  },
+  {
+   "file": "CNN.png",
+   "names": [
+    "CNN"
+   ]
+  },
+  {
+   "file": "FOX_SPORTS_1.png",
+   "names": [
+    "FOX SPORTS 1",
+    "FOXSPORTS1"
+   ]
+  },
+  {
+   "file": "FOX_SPORTS_2.png",
+   "names": [
+    "FOX SPORTS 2",
+    "FOXSPORTS2"
+   ]
+  },
+  {
+   "file": "HOY_TV.png",
+   "names": [
+    "HOY TV",
+    "HOYTV"
+   ]
+  },
+  {
+   "file": "HOY_资讯台.png",
+   "names": [
+    "HOY 资讯台",
+    "HOY资讯台"
+   ]
+  },
+  {
+   "file": "ITV_1.png",
+   "names": [
+    "ITV 1",
+    "ITV1"
+   ]
+  },
+  {
+   "file": "J_SPORTS_1.png",
+   "names": [
+    "J SPORTS 1",
+    "JSPORTS1",
+    "J SPORTS 1 HD"
+   ]
+  },
+  {
+   "file": "J_SPORTS_2.png",
+   "names": [
+    "J SPORTS 2",
+    "JSPORTS2",
+    "J SPORTS 2 HD"
+   ]
+  },
+  {
+   "file": "J_SPORTS_3.png",
+   "names": [
+    "J SPORTS 3",
+    "JSPORTS3",
+    "J SPORTS 3 HD"
+   ]
+  },
+  {
+   "file": "J_SPORTS_4.png",
+   "names": [
+    "J SPORTS 4",
+    "JSPORTS4",
+    "J SPORTS 4 HD"
+   ]
+  },
+  {
+   "file": "KBS_WORLD.png",
+   "names": [
+    "KBS WORLD",
+    "KBSWORLD",
+    "KBS World",
+    "KBS 월드"
+   ]
+  },
+  {
+   "file": "KCTV_광주_CH05.png",
+   "names": [
+    "KCTV 광주 CH05",
+    "KCTV광주CH05"
+   ]
+  },
+  {
+   "file": "Korea_TV.png",
+   "names": [
+    "Korea TV",
+    "KoreaTV",
+    "코리아TV"
+   ]
+  },
+  {
+   "file": "LIVENOW_from_FOX.png",
+   "names": [
+    "LIVENOW from FOX",
+    "LIVENOWfromFOX"
+   ]
+  },
+  {
+   "file": "LOVE_NATURE_4K.png",
+   "names": [
+    "LOVE NATURE 4K",
+    "LOVENATURE4K"
+   ]
+  },
+  {
+   "file": "LOVE_NATURE.png",
+   "names": [
+    "LOVE NATURE",
+    "LOVENATURE"
+   ]
+  },
+  {
+   "file": "LaLa_TV.png",
+   "names": [
+    "LaLa TV",
+    "LaLaTV",
+    "ララTV"
+   ]
+  },
+  {
+   "file": "MBC.png",
+   "names": [
+    "MBC"
+   ]
+  },
+  {
+   "file": "MTV_BIGGEST_POP.png",
+   "names": [
+    "MTV BIGGEST POP",
+    "MTVBIGGESTPOP"
+   ]
+  },
+  {
+   "file": "MTV_SPANKIN'_NEW.png",
+   "names": [
+    "MTV SPANKIN' NEW",
+    "MTVSPANKIN'NEW"
+   ]
+  },
+  {
+   "file": "MUSIC_ON!_TV.png",
+   "names": [
+    "MUSIC ON! TV",
+    "MUSICON!TV",
+    "MUSIC ON TV",
+    "MUSIC ON!TV"
+   ]
+  },
+  {
+   "file": "NASA_TV_UHD.png",
+   "names": [
+    "NASA TV UHD",
+    "NASATVUHD"
+   ]
+  },
+  {
+   "file": "NASA_TV.png",
+   "names": [
+    "NASA TV",
+    "NASATV"
+   ]
+  },
+  {
+   "file": "NBC_NEWS_NOW_HD.png",
+   "names": [
+    "NBC NEWS NOW HD",
+    "NBCNEWSNOWHD"
+   ]
+  },
+  {
+   "file": "NEWSMAX.png",
+   "names": [
+    "NEWSMAX"
+   ]
+  },
+  {
+   "file": "NEWSY.png",
+   "names": [
+    "NEWSY"
+   ]
+  },
+  {
+   "file": "NHK_BS1.png",
+   "names": [
+    "NHK BS1",
+    "NHKBS1",
+    "NHK-BS1",
+    "NHK BS 1"
+   ]
+  },
+  {
+   "file": "NHK_G.png",
+   "names": [
+    "NHK G",
+    "NHKG",
+    "NHK-G",
+    "NHK総合",
+    "NHK综合",
+    "NHK G 総合"
+   ]
+  },
+  {
+   "file": "NHK_WORLD_JAPAN.png",
+   "names": [
+    "NHK WORLD JAPAN",
+    "NHKWORLDJAPAN",
+    "NHK WORLD",
+    "NHK World Japan"
+   ]
+  },
+  {
+   "file": "PBS_AMERICA.png",
+   "names": [
+    "PBS AMERICA",
+    "PBSAMERICA"
+   ]
+  },
+  {
+   "file": "PBS_KIDS.png",
+   "names": [
+    "PBS KIDS",
+    "PBSKIDS"
+   ]
+  },
+  {
+   "file": "QVC.png",
+   "names": [
+    "QVC"
+   ]
+  },
+  {
+   "file": "REELZ.png",
+   "names": [
+    "REELZ"
+   ]
+  },
+  {
+   "file": "RT_NEWS.png",
+   "names": [
+    "RT NEWS",
+    "RTNEWS"
+   ]
+  },
+  {
+   "file": "SKY_NEWS.png",
+   "names": [
+    "SKY NEWS",
+    "SKYNEWS"
+   ]
+  },
+  {
+   "file": "SPORTY_STUFF_HD.png",
+   "names": [
+    "SPORTY STUFF HD",
+    "SPORTYSTUFFHD"
+   ]
+  },
+  {
+   "file": "TOKYO_MX.png",
+   "names": [
+    "TOKYO MX",
+    "TOKYOMX",
+    "TOKYO MX1",
+    "MXテレビ",
+    "东京MX"
+   ]
+  },
+  {
+   "file": "WBC_TV.png",
+   "names": [
+    "WBC TV",
+    "WBCTV"
+   ]
+  },
+  {
+   "file": "WILD_PLANET.png",
+   "names": [
+    "WILD PLANET",
+    "WILDPLANET"
+   ]
+  },
+  {
+   "file": "WONDER.png",
+   "names": [
+    "WONDER"
+   ]
+  },
+  {
+   "file": "Wild_Earth.png",
+   "names": [
+    "Wild Earth",
+    "WildEarth"
+   ]
+  },
+  {
+   "file": "YO!_MTV.png",
+   "names": [
+    "YO! MTV",
+    "YO!MTV"
+   ]
+  },
+  {
+   "file": "ZIGGO_DOCU.png",
+   "names": [
+    "ZIGGO DOCU",
+    "ZIGGODOCU"
+   ]
+  },
+  {
+   "file": "キッズステーション_KIDS_STATION.png",
+   "names": [
+    "キッズステーション KIDS STATION",
+    "キッズステーションKIDSSTATION",
+    "キッズステーション",
+    "KIDS STATION"
+   ]
+  },
+  {
+   "file": "ゴルフネットワーク_GOLF_NETWORK.png",
+   "names": [
+    "ゴルフネットワーク GOLF NETWORK",
+    "ゴルフネットワークGOLFNETWORK",
+    "ゴルフネットワーク",
+    "GOLF NETWORK"
+   ]
+  },
+  {
+   "file": "スカイA.png",
+   "names": [
+    "スカイA"
+   ]
+  },
+  {
+   "file": "スターチャンネル1_STAR_1.png",
+   "names": [
+    "スターチャンネル1 STAR 1",
+    "スターチャンネル1STAR1"
+   ]
+  },
+  {
+   "file": "スターチャンネル2_STAR_2.png",
+   "names": [
+    "スターチャンネル2 STAR 2",
+    "スターチャンネル2STAR2",
+    "スターチャンネル2",
+    "STAR 2"
+   ]
+  },
+  {
+   "file": "スターチャンネル3_STAR_3.png",
+   "names": [
+    "スターチャンネル3 STAR 3",
+    "スターチャンネル3STAR3",
+    "スターチャンネル3",
+    "STAR 3"
+   ]
+  },
+  {
+   "file": "スーパー!ドラマTV_Super_drama_TV.png",
+   "names": [
+    "スーパー!ドラマTV Super drama TV",
+    "スーパー!ドラマTVSuperdramaTV",
+    "スーパー!ドラマTV",
+    "Super drama TV"
+   ]
+  },
+  {
+   "file": "チャンネル_NECO.png",
+   "names": [
+    "チャンネル NECO",
+    "チャンネルNECO",
+    "NECOチャンネル"
+   ]
+  },
+  {
+   "file": "チャンネル銀河.png",
+   "names": [
+    "チャンネル銀河"
+   ]
+  },
+  {
+   "file": "テレビ朝日_tv_asahi.png",
+   "names": [
+    "テレビ朝日 tv asahi",
+    "テレビ朝日tvasahi",
+    "テレビ朝日",
+    "tv asahi",
+    "朝日电视台"
+   ]
+  },
+  {
+   "file": "テレビ東京_TV_TOKYO.png",
+   "names": [
+    "テレビ東京 TV TOKYO",
+    "テレビ東京TVTOKYO",
+    "テレビ東京",
+    "TV TOKYO",
+    "东京电视台"
+   ]
+  },
+  {
+   "file": "ディズニーch_DISNEY_CHANNEL_JAPAN.png",
+   "names": [
+    "ディズニーch DISNEY CHANNEL JAPAN",
+    "ディズニーchDISNEYCHANNELJAPAN",
+    "ディズニーチャンネル",
+    "DISNEY CHANNEL JAPAN"
+   ]
+  },
+  {
+   "file": "ファミリー劇場.png",
+   "names": [
+    "ファミリー劇場",
+    "ファミリー劇場HD"
+   ]
+  },
+  {
+   "file": "フジテレビ.png",
+   "names": [
+    "フジテレビ",
+    "フジテレビジョン",
+    "富士电视台",
+    "Fuji TV"
+   ]
+  },
+  {
+   "file": "ムービープラス_Movie_Plus.png",
+   "names": [
+    "ムービープラス Movie Plus",
+    "ムービープラスMoviePlus",
+    "ムービープラス",
+    "Movie Plus"
+   ]
+  },
+  {
+   "file": "东方卫视.png",
+   "names": [
+    "东方卫视",
+    "上海卫视",
+    "东方卫视高清",
+    "上海东方卫视"
+   ]
+  },
+  {
+   "file": "东森戏剧.png",
+   "names": [
+    "东森戏剧",
+    "東森戲劇",
+    "东森戏剧台",
+    "東森戲劇台"
+   ]
+  },
+  {
+   "file": "东森电影.png",
+   "names": [
+    "东森电影",
+    "東森電影",
+    "东森电影台",
+    "東森電影台"
+   ]
+  },
+  {
+   "file": "中天綜合台.png",
+   "names": [
+    "中天綜合台",
+    "中天综合台",
+    "中天综合",
+    "中天綜合"
+   ]
+  },
+  {
+   "file": "八大第一台.png",
+   "names": [
+    "八大第一台",
+    "八大第一",
+    "GTV第一台",
+    "八大綜合台"
+   ]
+  },
+  {
+   "file": "华数.png",
+   "names": [
+    "华数",
+    "华数TV",
+    "华数频道",
+    "华数TV频道"
+   ]
+  },
+  {
+   "file": "咪咕.png",
+   "names": [
+    "咪咕",
+    "咪咕视频",
+    "咪咕体育",
+    "咪咕直播"
+   ]
+  },
+  {
+   "file": "好消息.png",
+   "names": [
+    "好消息",
+    "好消息卫视",
+    "好消息电视台",
+    "GOOD TV",
+    "好消息衛星電視台"
+   ]
+  },
+  {
+   "file": "安徽卫视.png",
+   "names": [
+    "安徽卫视",
+    "安徽卫视高清"
+   ]
+  },
+  {
+   "file": "日テレNEWS24_HD.png",
+   "names": [
+    "日テレNEWS24 HD",
+    "日テレNEWS24HD",
+    "日テレNEWS24",
+    "日テレニュース24"
+   ]
+  },
+  {
+   "file": "日テレジータス.png",
+   "names": [
+    "日テレジータス"
+   ]
+  },
+  {
+   "file": "日本テレビ.png",
+   "names": [
+    "日本テレビ",
+    "日テレ",
+    "日本电视台",
+    "NTV"
+   ]
+  },
+  {
+   "file": "日本映画専門チャンネル.png",
+   "names": [
+    "日本映画専門チャンネル",
+    "日本映画専門チャンネルHD",
+    "日本映画专门频道"
+   ]
+  },
+  {
+   "file": "明珠台.png",
+   "names": [
+    "明珠台",
+    "TVB明珠台",
+    "明珠",
+    "明珠台高清"
+   ]
+  },
+  {
+   "file": "智林體育台.png",
+   "names": [
+    "智林體育台",
+    "智林体育台",
+    "智林体育"
+   ]
+  },
+  {
+   "file": "有線新聞台.png",
+   "names": [
+    "有線新聞台",
+    "有线新闻台",
+    "有线新闻",
+    "有線新聞"
+   ]
+  },
+  {
+   "file": "求索动物.png",
+   "names": [
+    "求索动物",
+    "求索动物频道",
+    "动物星球"
+   ]
+  },
+  {
+   "file": "求索生活.png",
+   "names": [
+    "求索生活",
+    "求索生活频道"
+   ]
+  },
+  {
+   "file": "求索科学.png",
+   "names": [
+    "求索科学",
+    "求索科学频道"
+   ]
+  },
+  {
+   "file": "求索纪录.png",
+   "names": [
+    "求索纪录",
+    "求索纪录频道"
+   ]
+  },
+  {
+   "file": "江苏卫视.png",
+   "names": [
+    "江苏卫视",
+    "江苏卫视高清"
+   ]
+  },
+  {
+   "file": "浙江卫视.png",
+   "names": [
+    "浙江卫视",
+    "浙江卫视高清",
+    "蓝莓台"
+   ]
+  },
+  {
+   "file": "湖北卫视.png",
+   "names": [
+    "湖北卫视",
+    "湖北卫视高清"
+   ]
+  },
+  {
+   "file": "湖南卫视.png",
+   "names": [
+    "湖南卫视",
+    "湖南卫视高清",
+    "芒果台"
+   ]
+  },
+  {
+   "file": "無綫新聞台.png",
+   "names": [
+    "無綫新聞台",
+    "无线新闻台",
+    "TVB新闻台",
+    "無線新聞台",
+    "翡翠新闻台"
+   ]
+  },
+  {
+   "file": "纬来体育.png",
+   "names": [
+    "纬来体育",
+    "緯來體育",
+    "纬来体育台",
+    "緯來體育台"
+   ]
+  },
+  {
+   "file": "翡翠台.png",
+   "names": [
+    "翡翠台",
+    "TVB翡翠台",
+    "翡翠",
+    "翡翠台高清"
+   ]
+  },
+  {
+   "file": "香港衛視.png",
+   "names": [
+    "香港衛視",
+    "香港卫视",
+    "香港卫视中文台"
+   ]
+  },
+  {
+   "file": "鳳凰衛視中文台.png",
+   "names": [
+    "鳳凰衛視中文台",
+    "凤凰卫视中文台",
+    "凤凰中文台",
+    "凤凰中文",
+    "凤凰卫视"
+   ]
+  },
+  {
+   "file": "鳳凰衛視資訊台.png",
+   "names": [
+    "鳳凰衛視資訊台",
+    "凤凰卫视资讯台",
+    "凤凰资讯台",
+    "凤凰资讯"
+   ]
+  },
+  {
+   "file": "鳳凰衛視香港台.png",
+   "names": [
+    "鳳凰衛視香港台",
+    "凤凰卫视香港台",
+    "凤凰香港台",
+    "凤凰香港"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+# 源素材与清单的下载缓存（40 MB 上下）：跑一次 --build 就又能长出来，
+# 不进版本库。剩下那几份产物（logos/ index.json SOURCES.md build/manifest.json
+# build/coverage.md build/curated.json）是要提交的。
+build/.cache/
+__pycache__/
